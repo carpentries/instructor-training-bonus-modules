@@ -1,5 +1,5 @@
 ---
-title: "Online Workshops Module 1 Know Your Tools"
+title: "Online Workshops Module 1: Know Your Tools"
 teaching: 30
 exercises: 60
 questions:
