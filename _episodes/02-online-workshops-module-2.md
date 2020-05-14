@@ -11,7 +11,7 @@ questions:
 objectives:
 - "Create an agenda for your instructional team meeting."
 - "Write and rehearse the non-technical portion of an online workshop introduction."
-- "Practice and give feedback on short online 'live-coding' segments."
+- "Practice and give feedback on short online live-coding segments."
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
