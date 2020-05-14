@@ -1,4 +1,3 @@
-  
 ---
 title: "Online Workshops Module 2: Making the Dream Work"
 teaching: 30
