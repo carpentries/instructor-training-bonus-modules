@@ -34,7 +34,7 @@ After the break, we will come back to talk about *teaching*. If you are taking t
 
 Please note that this workshop is intended to supplement, but not to replace The Carpentries Recommendations for Online Workshops. Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
-> ### Introduce yourself!
+> ## Introduce yourself!
 > In the Etherpad, please sign in with your name, preferred pronouns, and a fun fact about yourself. Also, please add your name in the upper right corner of the pad, and select your favorite color to display with your text. 
 > 
 > Be sure to share your introductions again during your first group activity of the day. 
@@ -45,7 +45,7 @@ Please note that this workshop is intended to supplement, but not to replace The
 ## How to Host a Workshop: a technical guide
 The video conferencing platform used by The Carpentries is Zoom. However, your hosting organization may have another platform. 
 
-> ### What platform will you use?
+> ## What platform will you use?
 > In the Etherpad, please indicate with an "X" which platform you will be using. If you don't see yours listed, please add it.
 {: .challenge}
 
@@ -83,7 +83,7 @@ As host, you can:
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
 
 
-> ### Activity 1 (to be carried out in parallel with other activities)
+> ## Activity 1 (to be carried out in parallel with other activities)
 > - Group 1 takes turns 
 >     - receiving & passing off host status
 >     - muting/unmuting
@@ -115,7 +115,7 @@ These are two examples of challenges presented by the video conferencing environ
 
 During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team. You do not need to consider communications *within* the instructional team (e.g. between Helpers and Instructors) just yet -- we will discuss that soon. 
 
-> ### Activity 2 (15 min): 
+> ## Activity 2 (15 min): 
 > - Groups 2-5:
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. (Plan to rotate these as much as possible/practical)
@@ -165,7 +165,7 @@ MyBinder
 You will receive links to backup solutions for your workshop a pre-workshop email sent by our workshop coordinators. This email will also include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We recommend that you **only share this information with those learners who have not successfully completed installation on their own computer once the workshop has begun.**
 
 
-> ### Activity 3 (10 min): 
+> ## Activity 3 (10 min): 
 > 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you'd like to teach.
 > 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try:
 > - Rstudio:
@@ -201,7 +201,7 @@ As noted in our earlier conversations, a noisy chat can create real problems for
 
 In the next activity, consider the many different things that an instructional team might want or need to communicate during a workshop. For example, a helper might not know how to solve a problem that a learner has asked about, and may need to reach out to others to help *them*. What other 'use cases' can you think of for communications within the instructional team?
 
-> ### Activity 4 (10 min): 
+> ## Activity 4 (10 min): 
 > - Identify use cases for behind-the-scenes conversations (3 min)
 > - Brainstorm a few worst case scenarios for these use cases (3 min)
 > - Individually, draft a plan for communication within the instructional team that you think would work well for your workshop. Write this in the etherpad. (4 min)
@@ -221,7 +221,7 @@ Online learners are most often joining your workshop from home, just as you are 
 'Home' can look very different to different people, however. Sometimes, features of a home environment can limit participation in an online workshop in new and different ways.
 
 [Alternatively.. learner profiles here?]
-> ### Activity 5 (10 min)
+> ## Activity 5 (10 min)
 > 
 > Brainstorm: 
 > 1. What does an optimal learner experience look like? (3 min)
@@ -263,7 +263,7 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 > 
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
-> ### Activity 6 (10 min)
+> ## Activity 6 (10 min)
 > Work together to address the following questions in the etherpad:
 > 1. Make a list in the etherpad. What kinds of things need to be planned / agreed upon in advance of the workshop? (4 min)
 > 2. Sort your list! (3 min)
@@ -281,18 +281,18 @@ Resources:
 ## Practice
 Practice doesn't "make perfect" without deliberate attention to feedback!
 
-> ### Activity 7 (10 min)
+> ## Activity 7 (10 min)
 > - Write and rehearse the non-technical portion of an online workshop introduction
 > - Group 6 completes Activity 1
 {: .challenge}
 
-> ### Activity 8 (20 min)
+> ## Activity 8 (20 min)
 > - Take turns presenting and giving feedback on a 5 minute live coding segment of a workshop
 > - Groups 6 and 7 complete Activity 1 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
 {: .challenge}
 
 
-> ### Activity 9 (10 min)
+> ## Activity 9 (10 min)
 > - Each group discusses or completes the activity they missed while doing Activity 1. 
 {: .challenge}
 
