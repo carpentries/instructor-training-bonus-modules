@@ -232,6 +232,7 @@ Online learners are most often joining your workshop from home, just as you are 
 {: .challenge}
 
 (solutions drop-down)
+> ## Solutions
 > Optimal experience:
 > - understands the instructor
 > - can keep up with live coding
@@ -255,6 +256,7 @@ Online learners are most often joining your workshop from home, just as you are 
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and to distribute roles with regard to communications management.
 
 What makes a good meeting? Generate some ideas as a group, then check below to be sure these items are included:
+> ## Solutions
 > - A well-structured agenda
 > - Meeting roles
 > - Notes to record decisions & commitments for future reference
