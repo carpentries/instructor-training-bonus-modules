@@ -9,11 +9,14 @@ questions:
 - "How can the instructional team communicate during a workshop?"
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
-- "Write and rehearse the technical portion of an online workshop introduction."
+- "Create a plan to communicate with learners during a workshop."
 - "Set up a cloud instance for your workshop."
-- "Explore challenges and options for behind-the-scenes communication."
+- "Create a plan for behind-the-scenes communication during a workshop."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Hosting features in Zoom are most useful when operated by someone who isn't also trying to teach."
+- "Communications avenues should be planned and taught for an online workshop to function smoothy."
+- "Cloud instances can resolve software installation problems, but also have their own unique characteristics."
+- "Instructors and Helpers need a separate back-channel and a plan for notifications or connections failures."
 ---
 
 ## Introduction
