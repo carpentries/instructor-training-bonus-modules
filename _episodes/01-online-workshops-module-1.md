@@ -38,6 +38,7 @@ Please note that this workshop is intended to supplement, but not to replace The
 > In the Etherpad, please sign in with your name, preferred pronouns, and a fun fact about yourself. Also, please add your name in the upper right corner of the pad, and select your favorite color to display with your text. 
 > 
 > Be sure to share your introductions again during your first group activity of the day. 
+{: .challenge}
 
 # Part 1
 
@@ -46,6 +47,7 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 
 > ### What platform will you use?
 > In the Etherpad, please indicate with an "X" which platform you will be using. If you don't see yours listed, please add it.
+{: .challenge}
 
 We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you'll rotate through in groups throughout the workshop, where you will have an opportunity to play with the host controls. However, if you have questions about other platforms at any point during the workshop, we'd like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that can't be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you'd like us to follow up!
 
@@ -89,6 +91,7 @@ As host, you can:
 >     - waiting room?
 >     - receiving co-host status
 >     - manage, message, and visit breakouts (but not create)
+{: .challenge}
 
 Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might pop into your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please bear with us! :)
 ### Resources:
@@ -121,6 +124,7 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 > - Group 1:
 >     - Introduce yourselves!
 >     - Complete Activity 1 in cooperation with your Trainer
+{: .challenge}
 
 Additional resources:
 [Coderefinery learner's guide to zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
@@ -187,6 +191,7 @@ You will receive links to backup solutions for your workshop a pre-workshop emai
 > 
 > - Group 2 completes Activity 1 
 > 
+{: .challenge}
 
 
 ## Behind-the-Scenes: communicating with your instructional team
@@ -201,7 +206,7 @@ In the next activity, consider the many different things that an instructional t
 > - Brainstorm a few worst case scenarios for these use cases (3 min)
 > - Individually, draft a plan for communication within the instructional team that you think would work well for your workshop. Write this in the etherpad. (4 min)
 > - Group 3 completes Activity 1
-
+{: .challenge}
 --------
 
 # BREAK
@@ -224,6 +229,7 @@ Online learners are most often joining your workshop from home, just as you are 
 > 3. What can you do, either in the design of your workshop or in response to challenges, to address potential barriers to success in your workshop? (4 min)
 > 
 > - Group 4 completes Activity 1
+{: .challenge}
 
 (solutions drop-down)
 Optimal experience:
@@ -266,6 +272,7 @@ In the next activity, you will work with your group to tease apart the preparati
 > - What can happen as follow-up to the meeting?
 > 3. Draft a meeting agenda (individually or as a group) (3 min)
 > - Group 5 completes Activity 1
+{: .challenge}
 
 Resources:
 "[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
@@ -277,14 +284,17 @@ Practice doesn't "make perfect" without deliberate attention to feedback!
 > ### Activity 7 (10 min)
 > - Write and rehearse the non-technical portion of an online workshop introduction
 > - Group 6 completes Activity 1
+{: .challenge}
 
 > ### Activity 8 (20 min)
 > - Take turns presenting and giving feedback on a 5 minute live coding segment of a workshop
 > - Groups 6 and 7 complete Activity 1 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
+{: .challenge}
 
 
 > ### Activity 9 (10 min)
 > - Each group discusses or completes the activity they missed while doing Activity 1. 
+{: .challenge}
 
 ## Wrap-up
 
