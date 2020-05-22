@@ -232,24 +232,24 @@ Online learners are most often joining your workshop from home, just as you are 
 {: .challenge}
 
 (solutions drop-down)
-Optimal experience:
-- understands the instructor
-- can keep up with live coding
-- feels comfortable asking for help
-- feels like they 'belong' at the workshop
-- leaves feeling like they can continue to learn skills
-
-Barriers:
-* internet 
-* home technology setup (small screen, poor audio/video)
-* household distractions 
-* other accessibility (e.g. need for audio or visual accommodations)
-
-Solutions:
-* Direct learners to curriculum in case they lose connection. Follow curriculum.
-* Minimize window-switching and pause to allow learners to juggle screens e.g. when switching to a collaborative document.
-* Where captioning isn't an option, assigning a note-taker to directly transcribe
-
+> Optimal experience:
+> - understands the instructor
+> - can keep up with live coding
+> - feels comfortable asking for help
+> - feels like they 'belong' at the workshop
+> - leaves feeling like they can continue to learn skills
+>
+> Barriers:
+> * internet 
+> * home technology setup (small screen, poor audio/video)
+> * household distractions 
+> * other accessibility (e.g. need for audio or visual accommodations)
+>
+> Solutions:
+> * Direct learners to curriculum in case they lose connection. Follow curriculum.
+> * Minimize window-switching and pause to allow learners to juggle screens e.g. when switching to a collaborative document.
+> * Where captioning isn't an option, assigning a note-taker to directly transcribe
+{: .solution}
 
 ## Planning your workshop
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and to distribute roles with regard to communications management.
@@ -261,6 +261,7 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 > - Clearly assigned action items
 > - Central aims accomplished in allotted time
 > 
+{: .solution}
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
 > ## Activity 6 (10 min)
