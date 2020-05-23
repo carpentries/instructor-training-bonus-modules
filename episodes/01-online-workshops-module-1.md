@@ -57,7 +57,7 @@ We will now spend a little time discussing and demonstrating the host role on Zo
 ### Host Powers on Zoom
 When you enter a Carpentries Zoom room, you won't have host controls. One person on your instructional team will use a "host key" provided in your introductory email to "Claim Host". 
 
-![Claim Host](fig/claim_host.png)
+![Claim Host](../fig/claim_host.png)
 
 After that, you can only become the host if a current host passes that status to you.
 
