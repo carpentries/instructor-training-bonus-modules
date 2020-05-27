@@ -15,15 +15,12 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
----------
-# Part 2
-
 ## Understanding the Learner Experience
-In Part 1 of this workshop, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. But, there is more to communication than choosing a platform! 
+In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. But, there is more to communication than choosing a platform! 
 
 Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
 
-'Home' can look very different to different people, however. Sometimes, features of a home environment can limit participation in an online workshop in new and different ways.
+'Home' can look very different to different people. Sometimes, features of a home environment can limit participation in an online workshop in new and different ways.
 
 [Alternatively.. learner profiles here?]
 > ## Activity 5 (10 min)
@@ -72,8 +69,8 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
 > ## Activity 6 (10 min)
-> Work together to address the following questions in the etherpad:
-> 1. Make a list in the etherpad. What kinds of things need to be planned / agreed upon in advance of the workshop? (4 min)
+> Work together to address the following questions in the Etherpad:
+> 1. Make a list in the Etherpad. What kinds of things need to be planned / agreed upon in advance of the workshop? (4 min)
 > 2. Sort your list! (3 min)
 > - What can be established before the meeting (asynchronously)?
 > - What needs to happen during the meeting?
