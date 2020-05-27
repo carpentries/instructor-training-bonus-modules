@@ -5,17 +5,16 @@ exercises: 60
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
-- "How do cloud instances help when software installation fails?"
+- "What do I do if my learners can't install the software?"
 - "How can the instructional team communicate during a workshop?"
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
 - "Create a plan to communicate with learners during a workshop."
-- "Set up a cloud instance for your workshop."
 - "Create a plan for behind-the-scenes communication during a workshop."
 keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who isn't also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothy."
-- "Cloud instances can resolve software installation problems, but also have their own unique characteristics."
+- "Cloud instances can resolve software installation problems, but also have their own unique limitations."
 - "Instructors and Helpers need a separate back-channel and a plan for notifications or connections failures."
 ---
 
@@ -134,11 +133,15 @@ Additional resources:
 
 ## Introduction to Cloud Instances for Carpentries Workshops
 
-At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software installation problems can be a tremendous challenge even at an in-person event. 
+At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
+as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
+installation problems can be a tremendous challenge even at an in-person event. 
 
-In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally unsolvable. Therefore, The Carpentries now provides cloud instances for each curriculum, pre-loaded with all required software and data. These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
+In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally
+unsolvable. Therefore, The Carpentries now provides cloud instances for each curriculum, pre-loaded with all required software and data.
+These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
 
-There are two main types of cloud instances to be used for Carpentries workshops:
+There are two main types of cloud instances to be used for Carpentries workshops, each appropriate for different lessons:
 
 - **RStudio Cloud**
     - R-based lessons
@@ -159,30 +162,32 @@ MyBinder
 - Does not require sign-in
 - Can be slow to load if not used in previous 12 hours
 - Identical interface to Jupyter Hub & Jupyter Lab
-- Does not save work (must save notebooks and modified data to desktop, re-upload)
+- Does not save work (must save notebooks and modified data to desktop and re-upload)
 - Session stops after 10 minutes inactivity
 - Non-private session means that login information should not be used. **Do not connect to GitHub from MyBinder.**
 - Has nano text editor installed
 
-
-You will receive links to backup solutions for your workshop a pre-workshop email sent by our workshop coordinators. This email will also include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We recommend that you **only share this information with those learners who have not successfully completed installation on their own computer once the workshop has begun.**
+You will receive links to backup solutions for your workshop a pre-workshop email sent by our workshop coordinators. This email will also
+include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
+recommend that you **only share this information with those learners who have not successfully completed installation on their own
+computer once the workshop has begun.**
 
 
 > ## Activity 3 (10 min): 
 > 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you'd like to teach.
-> 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try:
+> 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try the following:
 > - Rstudio:
->     - start Rstudio cloud and sign in
->     - make a copy of the project
->     - create an Rscript and save it to the project
+>     - Start Rstudio cloud and sign in
+>     - Make a copy of the project
+>     - Create an R script and save it to the project
 >     - Exit the project
->     - log back in & find your script
+>     - lLog back in and find your script
 > - Binder: 
 >     - Wait for your Binder instance to load
 >     - Create a new notebook
 >     - Write a short script
 >     - Save notebook to your own desktop
->     - Close & reload Binder instance
+>     - Close and reload Binder instance
 >     - Repopulate with saved notebook
 > 
 > 3. As a group, brainstorm and write in the Etherpad:
@@ -190,7 +195,7 @@ You will receive links to backup solutions for your workshop a pre-workshop emai
 > - ~3 ways that difficulty could be resolved or pre-empted
 > - Any questions that you have*
 > 
-> *Questions that can't be answered during the workshop may be directed to our support team by emailing team@carpentries.org 
+> *Questions that can't be answered during the workshop may be directed to our support team by emailing team@carpentries.org. 
 > 
 > - Group 2 completes Activity 1 
 > 
