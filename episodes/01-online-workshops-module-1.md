@@ -22,37 +22,35 @@ keypoints:
 ## Introduction
 If you’ve been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
 
-* A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you’ve got a challenge unto itself – never mind the coding.
-* Learners’ **faces are hidden**, especially during screen sharing, which makes it much harder for the instructional team to “read the room.”
-* **No sticky notes!** And hands can be confusing.
-* **Side conversations** present a challenge. In a video conference it’s not possible to talk quietly in the back while instruction continues. Conversations between helpers and learners as well as those within the instructional team need to be routed elsewhere.
+* A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you’ve got a challenge unto itself – independent of the lesson's content.
+* Learners’ **faces are hidden**, especially during screen sharing, which makes it much harder for the instructional team to evaluate how learners are handling the material by observing facial expressions.
+* **No sticky notes!** And asking learners to raise their hands in the chat can be confusing.
+* **Side conversations** present a challenge. In a video conference it’s not possible to talk quietly in the back of the room while instruction continues. Conversations between helpers and learners as well as those within the instructional team need to be routed elsewhere.
 * **Helpers can’t “drive.”** As much as we recommend against typing on a learner’s machine, this is sometimes necessary for complex problems. Remote control of learner machines is not straightforward.
-* **Socialization** doesn’t ‘just happen’. Learners can’t chat with a neighbor or hang around the snack table during a break.
+* **Socialization** doesn’t ‘just happen’. Learners can’t chat with a neighbor or socialise around the snack table during a break.
 
 We'll talk about each of these challenges in the course of this workshop. 
 
 In the first part of the workshop, we'll talk about technology. With the recent global lockdowns, many have had an opportunity to become more familiar with video conferencing and remote collaboration platforms. However, the ways in which these work well or present challenges in the context of a workshop can still be surprising! You'll get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need -- in addition to the content of your workshop!
 
-After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries Instructor Training workshop. Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how the timing, communications strategies, feedback, and teamwork can create a positive learning environment. We will brainstorm pitfalls and demotivating scenarios to avoid. And last but certainly not least, you will have an opportunity to practice your live coding and participate in feedback specific to the online workshop setting.
+After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/). Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how the timing, communications strategies, feedback, and teamwork can create a positive learning environment. We will brainstorm challenges and demotivating scenarios to avoid. And last but certainly not least, you will have an opportunity to practice your live coding and participate in feedback specific to the online workshop setting.
 
-Please note that this workshop is intended to supplement, but not to replace The Carpentries Recommendations for Online Workshops. Be sure to read those recommendations carefully, and check for useful updates each time you teach!
+Please note that this workshop is intended to supplement, but not to replace The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
 > ## Introduce yourself!
-> In the Etherpad, please sign in with your name, preferred pronouns, and a fun fact about yourself. Also, please add your name in the upper right corner of the pad, and select your favorite color to display with your text. 
+> In the Etherpad, please sign in with your name, pronouns, and a fun fact about yourself. Also, please add your name and pronouns in the upper right corner of the pad, and select your favorite color to display with your text. 
 > 
 > Be sure to share your introductions again during your first group activity of the day. 
 {: .challenge}
 
-# Part 1
-
 ## How to Host a Workshop: a technical guide
-The video conferencing platform used by The Carpentries is Zoom. However, your hosting organization may have another platform. 
+The video conferencing platform used by The Carpentries is Zoom. However, your hosting organisation may have another platform. 
 
 > ## What platform will you use?
-> In the Etherpad, please indicate with an "X" which platform you will be using. If you don't see yours listed, please add it.
+> In the Etherpad, please indicate with an "X" which platform you will be using for your workshop. If you don't see yours listed, please add it.
 {: .challenge}
 
-We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you'll rotate through in groups throughout the workshop, where you will have an opportunity to play with the host controls. However, if you have questions about other platforms at any point during the workshop, we'd like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that can't be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you'd like us to follow up!
+We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you'll rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we'd like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that can't be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you'd like us to follow up!
 
 ### Host Powers on Zoom
 When you enter a Carpentries Zoom room, you won't have host controls. One person on your instructional team will use a "host key" provided in your introductory email to "Claim Host". 
@@ -63,11 +61,11 @@ After that, you can only become the host if a current host passes that status to
 
 As host, you can:
 
-- **Pass host or assign a co-host.** Co-hosts have some (but not all) of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone with full attention to manage the meeting.
+- **Pass host or assign a co-host.** Co-hosts have some (but not all) of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
 
 ![](https://codimd.carpentries.org/uploads/upload_4a6257974f2051d955bcab837b3eb361.png)
 
-- **Enable waiting rooms.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can communicate with people in waiting rooms by issuing announcements, but cannot communicate individually or hear from them. 
+- **Enable waiting rooms.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can communicate with people in waiting rooms by issuing announcements, but cannot communicate directly with individuals in the waiting room. People in the waiting room can not message the host. 
 
 ![](https://codimd.carpentries.org/uploads/upload_ae79a48f9d0cc95fdfefb1018a22c59c.png)
 
@@ -75,7 +73,7 @@ As host, you can:
 
 - **Turn off (but not on) participants' video.** Rather than turning the video back on, Zoom will send a request to the participant to activate their video.
 
-- **Create and manage breakout rooms.** These are useful for socialization and group activities. Only the host can create breakout rooms. We suggest creating an extra room or two 'just in case.'
+- **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create breakout rooms. We suggest creating an extra room or two just in case.
 
 - **Control screen sharing.** In Carpentries rooms, only the host can screen share by default. 
 
@@ -93,18 +91,19 @@ As host, you can:
 >     - screenshare/controlling screenshare
 >     - waiting room?
 >     - receiving co-host status
->     - manage, message, and visit breakouts (but not create)
+>     - managing, messaging, and visiting breakouts (but not creating them)
 {: .challenge}
 
-Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might pop into your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please bear with us! :)
+Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might enter your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please be patient with us! :)
+
 ### Resources:
-- For more details, see the section on Zoom [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html?highlight=zoom#information-for-event-hosts).
+- For more details, see the section on Zoom in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html?highlight=zoom#information-for-event-hosts).
 
 ## Interacting with your Learners Online
 
 At all Carpentries workshops, we take the quality of our communications seriously. We communicate to inspire, sharing our enthusiasm while being mindful of demotivating language and systemic bias. We communicate to re-frame errors as opportunities for learning. And of course we communicate to teach, focusing our learners on precisely what they need to know, and avoiding extraneous cognitive load.  
 
-At an in-person workshop, we communicate with words, with sticky-notes, with smiles and gestures and glances and reassuring presence. Words may be shouted from the front of the room or whispered over the shoulder, by a neighbor, in the hall during breaks.
+At an in-person workshop, we communicate with words, with sticky-notes, with smiles and gestures and glances and reassuring presence. Words may be shouted from the front of the room or whispered over the shoulder, by a neighbor, or in the hall during breaks.
 
 Online, most of these communication routes need a new home. In a video conference, only one person can speak at a time. Want to raise your hand? How will you do that? You might:
 - wave at the camera
