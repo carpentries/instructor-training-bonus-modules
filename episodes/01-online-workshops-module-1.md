@@ -1,7 +1,7 @@
 ---
 title: "Online Workshops Module 1: Know Your Tools"
 teaching: 30
-exercises: 60
+exercises: 35
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
