@@ -1,6 +1,6 @@
 ---
 title: "Online Workshops Module 2: Making the Dream Work"
-teaching: 30
+teaching: 40
 exercises: 60
 questions:
 - "What goes into planning an online workshop?"
