@@ -5,32 +5,32 @@ exercises: 35
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
-- "What do I do if my learners can't install the software?"
+- "What do I do if my learners are unable to install the software?"
 - "How can the instructional team communicate during a workshop?"
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
 - "Create a plan to communicate with learners during a workshop."
 - "Create a plan for behind-the-scenes communication during a workshop."
 keypoints:
-- "Hosting features in Zoom are most useful when operated by someone who isn't also trying to teach."
+- "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothy."
 - "Cloud instances can resolve software installation problems, but also have their own unique limitations."
 - "Instructors and Helpers need a separate back-channel and a plan for notifications or connections failures."
 ---
 
 ## Introduction
-If you’ve been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
+If you have been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
 
-* A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you’ve got a challenge unto itself – independent of the lesson's content.
+* A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you have got a challenge unto itself – independent of the lesson's content.
 * Learners’ **faces are hidden**, especially during screen sharing, which makes it much harder for the instructional team to evaluate how learners are handling the material by observing facial expressions.
 * **No sticky notes!** And asking learners to raise their hands in the chat can be confusing.
 * **Side conversations** present a challenge. In a video conference it’s not possible to talk quietly in the back of the room while instruction continues. Conversations between helpers and learners as well as those within the instructional team need to be routed elsewhere.
 * **Helpers can’t “drive.”** As much as we recommend against typing on a learner’s machine, this is sometimes necessary for complex problems. Remote control of learner machines is not straightforward.
 * **Socialization** doesn’t ‘just happen’. Learners can’t chat with a neighbor or socialise around the snack table during a break.
 
-We'll talk about each of these challenges in the course of this workshop. 
+We will talk about each of these challenges in the course of this workshop. 
 
-In the first part of the workshop, we'll talk about technology. With the recent global lockdowns, many have had an opportunity to become more familiar with video conferencing and remote collaboration platforms. However, the ways in which these work well or present challenges in the context of a workshop can still be surprising! You'll get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need -- in addition to the content of your workshop!
+In the first part of the workshop, we will talk about technology. With the recent global lockdowns, many have had an opportunity to become more familiar with video conferencing and remote collaboration platforms. However, the ways in which these work well or present challenges in the context of a workshop can still be surprising! You will get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need -- in addition to the content of your workshop!
 
 After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/). Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how the timing, communications strategies, feedback, and teamwork can create a positive learning environment. We will brainstorm challenges and demotivating scenarios to avoid. And last but certainly not least, you will have an opportunity to practice your live coding and participate in feedback specific to the online workshop setting.
 
@@ -46,13 +46,13 @@ Please note that this workshop is intended to supplement, but not to replace The
 The video conferencing platform used by The Carpentries is Zoom. However, your hosting organisation may have another platform. 
 
 > ## What platform will you use?
-> In the Etherpad, please indicate with an "X" which platform you will be using for your workshop. If you don't see yours listed, please add it.
+> In the Etherpad, please indicate with an "X" which platform you will be using for your workshop. If you do not see yours listed, please add it.
 {: .challenge}
 
-We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you'll rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we'd like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that can't be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you'd like us to follow up!
+We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you would like us to follow up!
 
 ### Host Powers on Zoom
-When you enter a Carpentries Zoom room, you won't have host controls. One person on your instructional team will use a "host key" provided in your introductory email to "Claim Host". 
+When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your introductory email to "Claim Host". 
 
 ![Claim Host]({{ page.root }}/fig/claim_host.png)
 
@@ -173,7 +173,7 @@ computer once the workshop has begun.**
 
 
 > ## Activity 3 (10 min): 
-> 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you'd like to teach.
+> 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you would like to teach.
 > 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try the following:
 > - Rstudio:
 >     - Start Rstudio cloud and sign in
@@ -194,7 +194,7 @@ computer once the workshop has begun.**
 > - ~3 ways that difficulty could be resolved or pre-empted
 > - Any questions that you have*
 > 
-> *Questions that can't be answered during the workshop may be directed to our support team by emailing team@carpentries.org. 
+> *Questions that cannot be answered during the workshop may be directed to our support team by emailing team@carpentries.org. 
 > 
 > - Group 2 completes Activity 1 
 > 
