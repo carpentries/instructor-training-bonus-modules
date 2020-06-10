@@ -51,7 +51,7 @@ Online learners are most often joining your workshop from home, just as you are 
 > Solutions:
 > * Direct learners to curriculum in case they lose connection. Follow curriculum.
 > * Minimize window-switching and pause to allow learners to juggle screens e.g. when switching to a collaborative document.
-> * Where captioning isn't an option, assigning a note-taker to directly transcribe
+> * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
 
 ## Planning your workshop
@@ -84,7 +84,7 @@ Resources:
 
 
 ## Practice
-Practice doesn't "make perfect" without deliberate attention to feedback!
+Practice does not "make perfect" without deliberate attention to feedback!
 
 > ## Activity 7 (10 min)
 > - Write and rehearse the non-technical portion of an online workshop introduction
