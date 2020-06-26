@@ -68,7 +68,7 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 {: .solution}
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
-> ## Activity 6 (10 min)
+> ## Activity 5 (10 min)
 > Work together to address the following questions in the Etherpad:
 > 1. Make a list in the Etherpad. What kinds of things need to be planned / agreed upon in advance of the workshop? (4 min)
 > 2. Sort your list! (3 min)
@@ -86,19 +86,19 @@ Resources:
 ## Practice
 Practice doesn't "make perfect" without deliberate attention to feedback!
 
-> ## Activity 7 (10 min)
+> ## Activity 6 (10 min)
 > - Write and rehearse the non-technical portion of an online workshop introduction
 > - Group 6 completes Activity 1
 {: .challenge}
 
-> ## Activity 8 (20 min)
-> - Take turns presenting and giving feedback on a 5 minute live coding segment of a workshop
+> ## Activity 7 (20 min)
+> - Take turns presenting and giving feedback on a 3 minute live coding segment of a workshop
 > - Groups 6 and 7 complete Activity 1 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
 {: .challenge}
 
 
-> ## Activity 9 (10 min)
-> - Each group discusses or completes the activity they missed while doing Activity 1. 
+> ## Activity 8 (10 min)
+> - Each group should discuss or complete the activity they missed while doing Activity 0. 
 {: .challenge}
 
 ## Wrap-up
