@@ -83,7 +83,7 @@ As host, you can:
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
 
 
-> ## Activity 1 (to be carried out in parallel with other activities)
+> ## Activity 0 (to be carried out in parallel with other activities)
 > - Group 1 takes turns 
 >     - receiving & passing off host status
 >     - muting/unmuting
@@ -116,15 +116,15 @@ These are two examples of challenges presented by the video conferencing environ
 
 During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team. You do not need to consider communications *within* the instructional team (e.g. between Helpers and Instructors) just yet -- we will discuss that soon. 
 
-> ## Activity 2 (15 min): 
-> - Groups 2-5:
+> ## Activity 1 (15 min): 
+> - Groups 2+:
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. (Plan to rotate these as much as possible/practical)
 >     - 5 minutes brainstorm worst case scenarios for video conferencing communications
 >     - 5 minutes draft solutions/ pre-emptive plans to create a best-case scenario
 > - Group 1:
 >     - Introduce yourselves!
->     - Complete Activity 1 in cooperation with your Trainer
+>     - Complete Activity 0 in cooperation with your Trainer
 {: .challenge}
 
 Additional resources:
@@ -172,7 +172,7 @@ recommend that you **only share this information with those learners who have no
 computer once the workshop has begun.**
 
 
-> ## Activity 3 (10 min): 
+> ## Activity 2 (10 min): 
 > 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you would like to teach.
 > 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try the following:
 > - Rstudio:
@@ -194,9 +194,9 @@ computer once the workshop has begun.**
 > - ~3 ways that difficulty could be resolved or pre-empted
 > - Any questions that you have*
 > 
-> *Questions that cannot be answered during the workshop may be directed to our support team by emailing team@carpentries.org. 
+> *Questions that cannot be answered during the workshop may be directed to our support team by emailing team@carpentries.org.* 
 > 
-> - Group 2 completes Activity 1 
+> - Group 2 completes Activity 0 
 > 
 {: .challenge}
 
@@ -208,11 +208,11 @@ As noted in our earlier conversations, a noisy chat can create real problems for
 
 In the next activity, consider the many different things that an instructional team might want or need to communicate during a workshop. For example, a helper might not know how to solve a problem that a learner has asked about, and may need to reach out to others to help *them*. What other 'use cases' can you think of for communications within the instructional team?
 
-> ## Activity 4 (10 min): 
+> ## Activity 3 (10 min): 
 > - Identify use cases for behind-the-scenes conversations (3 min)
 > - Brainstorm a few worst case scenarios for these use cases (3 min)
 > - Individually, draft a plan for communication within the instructional team that you think would work well for your workshop. Write this in the etherpad. (4 min)
-> - Group 3 completes Activity 1
+> - Group 3 completes Activity 0
 {: .challenge}
 --------
 
