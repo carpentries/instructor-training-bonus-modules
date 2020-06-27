@@ -22,7 +22,6 @@ Online learners are most often joining your workshop from home, just as you are 
 
 'Home' can look very different to different people. Sometimes, features of a home environment can limit participation in an online workshop in new and different ways.
 
-[Alternatively.. learner profiles here?]
 > ## Activity 5 (10 min)
 > 
 > Brainstorm: 
@@ -34,7 +33,7 @@ Online learners are most often joining your workshop from home, just as you are 
 {: .challenge}
 
 (solutions drop-down)
-> ## Solutions
+> ## Solutions (examples)
 > Optimal experience:
 > - understands the instructor
 > - can keep up with live coding
@@ -46,11 +45,14 @@ Online learners are most often joining your workshop from home, just as you are 
 > * internet 
 > * home technology setup (small screen, poor audio/video)
 > * household distractions 
+> * 'Zoom fatigue'
 > * other accessibility (e.g. need for audio or visual accommodations)
 >
 > Solutions:
 > * Direct learners to curriculum in case they lose connection. Follow curriculum.
 > * Minimize window-switching and pause to allow learners to juggle screens e.g. when switching to a collaborative document.
+> * Utilize ice-breakers and group activities to help learners feel more comfortable
+> * Consider whether and when to ask learners to turn on their video
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
 
