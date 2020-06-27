@@ -47,6 +47,13 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 
 > ## What platform will you use?
 > In the Etherpad, please indicate with an "X" which platform you will be using for your workshop. If you do not see yours listed, please add it.
+> - Zoom
+> - Jitsi
+> - WebEx
+> - Skype
+> - Blackboard
+> - Google Meet or Hangouts
+> - Other (please add!)
 {: .challenge}
 
 We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you would like us to follow up!
