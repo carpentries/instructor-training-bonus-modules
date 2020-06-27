@@ -38,8 +38,9 @@ Please note that this workshop is intended to supplement, but not to replace The
 
 > ## Introduce yourself!
 > In the Etherpad, please sign in with your name, pronouns, and a fun fact about yourself. Also, please add your name and pronouns in the upper right corner of the pad, and select your favorite color to display with your text. 
+> When you are finished, please raise your hand by writing "hand" in the chat. When the Trainer calls on you, unmute and briefly say your name and location (city, country).
 > 
-> Be sure to share your introductions again during your first group activity of the day. 
+> Be sure to share your introductions again -- with fun facts! -- during your first group activity of the day. 
 {: .challenge}
 
 ## How to Host a Workshop: a technical guide
@@ -107,11 +108,13 @@ At all Carpentries workshops, we take the quality of our communications seriousl
 
 At an in-person workshop, we communicate with words, with sticky-notes, with smiles and gestures and glances and reassuring presence. Words may be shouted from the front of the room or whispered over the shoulder, by a neighbor, or in the hall during breaks.
 
-Online, most of these communication routes need a new home. In a video conference, only one person can speak at a time. Want to raise your hand? How will you do that? You might:
-- wave at the camera
-- write "hand" in the chat
-- find a little hand-like symbol somewhere
+Online, most of these communication routes need a new home. In a video conference, only one person can speak at a time. Want to raise your hand? Writing "hand" in the chat as we did above is not the only route, nor is it normally the first thing new users will try. You might:
+- wave at the camera (if video is on)
 - unmute yourself and try to cut in
+- discover a little hand-like symbol and click it
+- add your question/comment to the chat instead
+- freeze, with an acute case of "analysis paralysis"
+
 
 Then, there is the problem of side conversations. In a video conference, unless you create breakout rooms, all vocal communication is shared with the entire workshop. One natural outlet for these conversations is the chat... but if that is your only outlet, social clutter can make it unusable.
 
@@ -122,12 +125,14 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 > ## Activity 1 (15 min): 
 > - Groups 2+:
 >     - Introduce yourselves!
->     - Assign group roles: moderator, time keeper, note-taker. (Plan to rotate these as much as possible/practical)
->     - 5 minutes brainstorm worst case scenarios for video conferencing communications
->     - 5 minutes draft solutions/ pre-emptive plans to create a best-case scenario
+>     - Assign group roles: moderator, time keeper, note-taker. Also, designate one person to share a few key points or questions with the class when you return. Plan to rotate these roles as much as possible/practical as we move through the activities today.
+>     - 5 minutes: brainstorm worst case scenarios for video conferencing communications
+>     - 5 minutes: draft solutions/ pre-emptive plans to create a best-case scenario
+>     - 
 > - Group 1:
 >     - Introduce yourselves!
 >     - Complete Activity 0 in cooperation with your Trainer
+>     - Take note of the role assignment instructions above for your next activity.
 {: .challenge}
 
 Additional resources:
@@ -156,7 +161,7 @@ RStudio Cloud
 - Requires sign-in
 - Starts up quickly
 - Identical interface to RStudio
-- Saves work (learners copy the instance to their own account)
+- Saves changes to the learner's own account
 - Does not include nano text editor (must use RStudio text editor)
 
 
@@ -164,12 +169,12 @@ MyBinder
 - Does not require sign-in
 - Can be slow to load if not used in previous 12 hours
 - Identical interface to Jupyter Hub & Jupyter Lab
-- Does not save work (must save notebooks and modified data to desktop and re-upload)
+- Does not save to the cloud (must save notebooks and modified data to desktop and re-upload)
 - Session stops after 10 minutes inactivity
 - Non-private session means that login information should not be used. **Do not connect to GitHub from MyBinder.**
 - Has nano text editor installed
 
-You will receive links to backup solutions for your workshop a pre-workshop email sent by our workshop coordinators. This email will also
+If you register your Carpentries workshop with us, you will receive links to backup solutions for your event in a pre-workshop email sent by our workshop coordinators. This email will also
 include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
 recommend that you **only share this information with those learners who have not successfully completed installation on their own
 computer once the workshop has begun.**
