@@ -52,33 +52,29 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you would like us to follow up!
 
 ### Host Powers on Zoom
-When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your introductory email to "Claim Host". 
+When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your 
+introductory email to "Claim Host". Below is a screenshot, as the host of your current session will be unable to display this during demonstration:
 
 ![Claim Host]({{ page.root }}/fig/claim_host.png)
 
-After that, you can only become the host if a current host passes that status to you.
+Once host has been claimed, you can only become the host when a current host passes that status to you.
 
 As host, you can:
 
 - **Pass host or assign a co-host.** Co-hosts have some (but not all) of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
 
-![](https://codimd.carpentries.org/uploads/upload_4a6257974f2051d955bcab837b3eb361.png)
+- **Enable and move participants to a waiting room.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can 
+communicate with people in waiting rooms by issuing announcements, but cannot communicate directly with individuals in the waiting room. People in the waiting 
+room can not message the host. 
 
-- **Enable waiting rooms.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can communicate with people in waiting rooms by issuing announcements, but cannot communicate directly with individuals in the waiting room. People in the waiting room can not message the host. 
-
-![](https://codimd.carpentries.org/uploads/upload_ae79a48f9d0cc95fdfefb1018a22c59c.png)
-
-- **Mute and unmute participants.** In Carpentries rooms, participants can unmute themselves by default, but this setting can be changed by the host if you want or need to enforce muting. This role can also be performed by co-hosts.
+- **Mute (but not unmute) participants.** In Carpentries rooms, participants are allowed to unmute themselves by default, but this setting can be changed by the 
+host if you want or need to enforce muting. This role can also be performed by co-hosts. Rather than unmuting, Zoom will send a request to the participant to unmute.
 
 - **Turn off (but not on) participants' video.** Rather than turning the video back on, Zoom will send a request to the participant to activate their video.
 
 - **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create breakout rooms. We suggest creating an extra room or two just in case.
 
 - **Control screen sharing.** In Carpentries rooms, only the host can screen share by default. 
-
-![](https://codimd.carpentries.org/uploads/upload_585922dda9269703b00758871315bb2e.png)
-
-![](https://codimd.carpentries.org/uploads/upload_7345f3058ec6badcd594b27923dd361a.png)
 
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
 
@@ -88,7 +84,7 @@ As host, you can:
 >     - receiving & passing off host status
 >     - muting/unmuting
 >     - screenshare/controlling screenshare
->     - waiting room?
+>     - sending a participant to the waiting room
 >     - receiving co-host status
 >     - managing, messaging, and visiting breakouts (but not creating them)
 {: .challenge}
