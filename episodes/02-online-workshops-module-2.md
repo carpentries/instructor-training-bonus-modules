@@ -22,14 +22,14 @@ Online learners are most often joining your workshop from home, just as you are 
 
 'Home' can look very different to different people. Sometimes, features of a home environment can limit participation in an online workshop in new and different ways.
 
-> ## Activity 5 (10 min)
+> ## Activity 4 (10 min)
 > 
 > Brainstorm: 
 > 1. What does an optimal learner experience look like? (3 min)
 > 2. What can get in the way? (3 min)
 > 3. What can you do, either in the design of your workshop or in response to challenges, to address potential barriers to success in your workshop? (4 min)
 > 
-> - Group 4 completes Activity 1
+> - Group 4 completes Activity 0
 {: .challenge}
 
 (solutions drop-down)
@@ -78,7 +78,7 @@ In the next activity, you will work with your group to tease apart the preparati
 > - What needs to happen during the meeting?
 > - What can happen as follow-up to the meeting?
 > 3. Draft a meeting agenda (individually or as a group) (3 min)
-> - Group 5 completes Activity 1
+> - Group 5 completes Activity 0
 {: .challenge}
 
 Resources:
@@ -90,12 +90,12 @@ Practice does not "make perfect" without deliberate attention to feedback!
 
 > ## Activity 6 (10 min)
 > - Write and rehearse the non-technical portion of an online workshop introduction
-> - Group 6 completes Activity 1
+> - Group 6 completes Activity 0
 {: .challenge}
 
 > ## Activity 7 (20 min)
 > - Take turns presenting and giving feedback on a 3 minute live coding segment of a workshop
-> - Groups 6 and 7 complete Activity 1 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
+> - Groups 6 and 7 complete Activity 0 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
 {: .challenge}
 
 
