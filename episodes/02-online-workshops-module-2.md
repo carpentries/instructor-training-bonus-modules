@@ -32,7 +32,7 @@ Online learners are most often joining your workshop from home, just as you are 
 > - Group 4 completes Activity 0
 {: .challenge}
 
-(solutions drop-down)
+
 > ## Solutions (examples)
 > Optimal experience:
 > - understands the instructor
