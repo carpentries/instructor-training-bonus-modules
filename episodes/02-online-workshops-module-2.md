@@ -95,7 +95,7 @@ Practice does not "make perfect" without deliberate attention to feedback!
 
 > ## Activity 7 (20 min)
 > - Take turns presenting and giving feedback on a 3 minute live coding segment of a workshop
-> - Groups 6 and 7 complete Activity 0 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
+> - Groups 7 and 8 complete Activity 0 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
 {: .challenge}
 
 
