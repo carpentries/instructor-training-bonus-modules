@@ -46,15 +46,16 @@ enviroment and equipment along with other potential accessibility issues, and pl
 > Barriers:
 > * internet 
 > * home technology setup (small screen, poor audio/video, installation failures)
-> * household distractions 
+> * household distractions (e.g. kids!)
 > * 'Zoom fatigue'
 > * other accessibility (e.g. need for audio or visual accommodations)
 >
 > Solutions:
-> * Direct learners to curriculum in case they lose connection. Follow curriculum.
+> * Direct learners to curriculum in case they lose connection or need to step away. Follow curriculum.
 > * Minimize window-switching and pause to allow learners to juggle screens e.g. when switching to a collaborative document
 > * Prepare to use cloud instances if needed, and also provide next steps for after the workshop to learners who use them.
-> * Utilize ice-breakers and group activities to help learners feel more comfortable
+> * Utilize ice-breakers and group activities to help learners feel more comfortable and connect your community
+> * Plan for breaks, post the times, and stick to them
 > * Consider whether and when to ask learners to turn on their video
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
