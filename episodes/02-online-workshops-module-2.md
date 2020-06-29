@@ -20,14 +20,16 @@ In Part 1 of this lesson, we talked about the importance of the right tool at th
 
 Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
 
-'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different ways. Some effects can be positive! But where features of a learner's environment create barriers, it's valuable to plan accommodations wherever possible.
+'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different 
+ways. Some effects can be positive! But where features of a learner's environment create barriers, a little advance planning can go a long way. Consider the home 
+enviroment and equipment along with other potential accessibility issues, and plan accommodations wherever possible.
 
 > ## Activity 4 (10 min)
 > 
 > Brainstorm: 
 > 1. What does an optimal learner experience look like? (3 min)
 > 2. What can get in the way? (3 min)
-> 3. What can you do, either in the design of your workshop or in response to challenges, to address potential barriers to success in your workshop? (4 min)
+> 3. What can you do, either in the design of your workshop or in response to observations or feedback, to address potential barriers to success in your workshop? (4 min)
 > 
 > - Group 4 completes Activity 0
 {: .challenge}
@@ -43,7 +45,7 @@ Online learners are most often joining your workshop from home, just as you are 
 >
 > Barriers:
 > * internet 
-> * home technology setup (small screen, poor audio/video)
+> * home technology setup (small screen, poor audio/video, installation failures)
 > * household distractions 
 > * 'Zoom fatigue'
 > * other accessibility (e.g. need for audio or visual accommodations)
