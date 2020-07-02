@@ -18,6 +18,13 @@ keypoints:
 - "Instructors and Helpers need a separate back-channel and a plan for notifications or connections failures."
 ---
 
+> ## Introduce yourself!
+> In the Etherpad, please sign in with your name, pronouns, and a fun fact about your local area. Note that you can customize your color at the top right. Also, in Zoom, please adjust your name as needed and add pronouns. You can do this by clicking the drop-down to the right of your name in the participants window.
+>
+> When you are finished, please raise your hand by writing "hand" in the chat. When the Trainer calls on you, unmute and briefly say your name and location (city, country). We'll save the fun facts for your first breakout sessions.
+>
+{: .challenge}
+
 ## Introduction
 If you have been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
 
@@ -36,12 +43,6 @@ After the break, we will come back to talk about *teaching*. If you are taking t
 
 Please note that this workshop is intended to supplement, but not to replace The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
-> ## Introduce yourself!
-> In the Etherpad, please sign in with your name, pronouns, and a fun fact about yourself. Also, please add your name and pronouns in the upper right corner of the pad, and select your favorite color to display with your text. 
-> When you are finished, please raise your hand by writing "hand" in the chat. When the Trainer calls on you, unmute and briefly say your name and location (city, country).
-> 
-> Be sure to share your introductions again -- with fun facts! -- during your first group activity of the day. 
-{: .challenge}
 
 ## How to Host a Workshop: a technical guide
 The video conferencing platform used by The Carpentries is Zoom. However, your hosting organisation may have another platform. 
@@ -57,7 +58,19 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 > - Other (please add!)
 {: .challenge}
 
-We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add your email address if you would like us to follow up!
+We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups 
+throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during 
+the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space 
+under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add 
+your email address if you would like us to follow up!
+
+> ## Trainers' Note
+>
+> Be sure the person who is actively teaching has host privileges before beginning this activity. 
+> Check the "Optimize Screen Share for Video Clip" box in the sharing window and share Desktop to display zoom features.
+>
+{: .discussion}
+
 
 ### Host Powers on Zoom
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your 
