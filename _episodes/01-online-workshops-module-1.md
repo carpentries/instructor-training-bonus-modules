@@ -199,14 +199,14 @@ computer once the workshop has begun.**
 > 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are here: [https://github.com/carpentries/scaffolds/blob/master/instructions/python.md](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). 
 > Feel free to explore on your own, or try the following:
 >
->  **Rstudio:**
+> - **Rstudio:**
 >     - Start Rstudio cloud and sign in
 >     - Make a copy of the project
 >     - Create an R script and save it to the project
 >     - Exit the project
 >     - lLog back in and find your script
 >
->  **Binder:** 
+> - **Binder:** 
 >     - Wait for your Binder instance to load
 >     - Create a new notebook
 >     - Write a short script
