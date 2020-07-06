@@ -102,11 +102,12 @@ host if you want or need to enforce muting. This role can also be performed by c
 
 > ## Activity 0 (to be carried out in parallel with other activities)
 > - Group 1 takes turns 
->     - receiving & passing off host status
+>     - receiving host status
+>     - assigning co-host status
 >     - muting/unmuting
->     - screenshare/controlling screenshare
+>     - screensharing
+>     - adjusting screensharing limits
 >     - sending a participant to the waiting room
->     - receiving co-host status
 >     - managing, messaging, and visiting breakouts (but not creating them)
 {: .challenge}
 
