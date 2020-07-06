@@ -194,9 +194,10 @@ recommend that you **only share this information with those learners who have no
 computer once the workshop has begun.**
 
 
-> ## Activity 2 (10 min): 
-> 1. Look [here](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons) for a link to the cloud instance for a workshop you would like to teach.
-> 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). Feel free to explore on your own, or try the following:
+> ## Activity 2 (15 min): 
+> 1. Look here for a link to the cloud instance for a workshop you would like to teach: [https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#links-to-lessons)
+> 2. Try it out! More details on Rstudio instances are [here](https://github.com/carpentries/scaffolds/blob/master/instructions/r.md). More details on Binder instances are here: [https://github.com/carpentries/scaffolds/blob/master/instructions/python.md](https://github.com/carpentries/scaffolds/blob/master/instructions/python.md). 
+> Feel free to explore on your own, or try the following:
 > - Rstudio:
 >     - Start Rstudio cloud and sign in
 >     - Make a copy of the project
@@ -211,7 +212,7 @@ computer once the workshop has begun.**
 >     - Close and reload Binder instance
 >     - Repopulate with saved notebook
 > 
-> 3. As a group, brainstorm and write in the Etherpad:
+> 3. As time allows, brainstorm as a group and write in the Etherpad:
 > - ~3 ways you think a learner might have difficulty with a cloud instance
 > - ~3 ways that difficulty could be resolved or pre-empted
 > - Any questions that you have*
@@ -230,7 +231,7 @@ As noted in our earlier conversations, a noisy chat can create real problems for
 
 In the next activity, consider the many different things that an instructional team might want or need to communicate during a workshop. For example, a helper might not know how to solve a problem that a learner has asked about, and may need to reach out to others to help *them*. What other 'use cases' can you think of for communications within the instructional team?
 
-> ## Activity 3 (10 min): 
+> ## Activity 3 (15 min): 
 > - Identify use cases for behind-the-scenes conversations (3 min)
 > - Brainstorm a few worst case scenarios for these use cases (3 min)
 > - Individually, draft a plan for communication within the instructional team that you think would work well for your workshop. Write this in the etherpad. (4 min)
