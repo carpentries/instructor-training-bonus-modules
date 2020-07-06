@@ -136,13 +136,13 @@ These are two examples of challenges presented by the video conferencing environ
 
 During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team. You do not need to consider communications *within* the instructional team (e.g. between Helpers and Instructors) just yet -- we will discuss that soon. 
 
-> ## Activity 1 (15 min): 
+> ## Activity 1 (20 min): 
 > - Groups 2+:
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. Also, designate one person to share a few key points or questions with the class when you return. Plan to rotate these roles as much as possible/practical as we move through the activities today.
->     - 5 minutes: brainstorm worst case scenarios for video conferencing communications
->     - 5 minutes: draft solutions/ pre-emptive plans to create a best-case scenario
->     - 
+>     - 5 minutes: brainstorm potential communications failures that may occur during a workshop. 
+>     - 5 minutes: draft solutions/ pre-emptive plans to create a best-case scenario for communications during your workshop.
+>  
 > - Group 1:
 >     - Introduce yourselves!
 >     - Complete Activity 0 in cooperation with your Trainer
