@@ -24,7 +24,7 @@ Online learners are most often joining your workshop from home, just as you are 
 ways. Some effects can be positive! But where features of a learner's environment create barriers, a little advance planning can go a long way. Consider the home 
 enviroment and equipment along with other potential accessibility issues, and plan accommodations wherever possible.
 
-> ## Activity 4 (10 min)
+> ## Activity 4 (15 min)
 > 
 > Brainstorm: 
 > 1. What does an optimal learner experience look like? (3 min)
@@ -78,14 +78,14 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 {: .solution}
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
-> ## Activity 5 (10 min)
+> ## Activity 5 (15 min)
 > Work together to address the following questions in the Etherpad:
-> 1. Make a list in the Etherpad. What kinds of things need to be planned / agreed upon in advance of the workshop? (4 min)
-> 2. Sort your list! (3 min)
+> 1. Think ahead to the meeting(s) you will have with your instructional team to prepare to teach your online workshop. What kinds of things do you need to work together to plan or agree upon? (5 min)
+> 2. Sort your list! (5 min)
 > - What can be established before the meeting (asynchronously)?
 > - What needs to happen during the meeting?
-> - What can happen as follow-up to the meeting? 
-> 3. Draft a meeting agenda (individually or as a group) in the Etherpad (3 min)
+> - What can happen after the meeting (asynchronously)?
+> 3. Draft a meeting agenda (individually or as a group) in the Etherpad (5 min)
 > - Group 5 completes Activity 0
 {: .challenge}
 
