@@ -1,7 +1,7 @@
 ---
 title: "Online Workshops Module 1: Know Your Tools"
-teaching: 30
-exercises: 35
+teaching: 50
+exercises: 60
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
@@ -204,7 +204,7 @@ computer once the workshop has begun.**
 >     - Make a copy of the project
 >     - Create an R script and save it to the project
 >     - Exit the project
->     - lLog back in and find your script
+>     - Log back in and find your script
 >
 > - **Binder:** 
 >     - Wait for your Binder instance to load
