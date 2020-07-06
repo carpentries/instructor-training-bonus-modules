@@ -96,34 +96,20 @@ Resources:
 ## Practice
 Practice does not "make perfect" without deliberate attention to feedback!
 
-For the remainder of our activity time, you will have an opportunity to rehearse components of your workshop in your groups. In the first activity, you will focus 
-primarily on *content* (remember that 2x2 rubric from [Instructor Training?](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)), introducing your learners to the nuts and bolts of your online workshop. In the second activity, you will practice live coding. Unlike
-our Instructor Training workshop, however, here you should be mindful of the features of your *delivery* that may be unique to the online learning 
-environment. When observing the demos of others, your experience in the learner role is equally important to the practice with instruction. Depending on the 
-lesson, it may not be practical for everyone to 'code along' with the time limits, but you can still take a moment to set up your viewing environment to 
-approximate that of a learner with a single laptop screen.
+For the remainder of our activity time, you will have an opportunity to compose and rehearse an introduction to your workshop in your groups. This short presentation should introduce your learners to the nuts and bolts of your online workshop. 
 
-To prepare for the next activity, take a few minutes to draft an introduction to your online workshop. What do your learners need to know about how to get the most out of your workshop? How will you teach them to participate? 
-Aim for no more than 3 minutes. Assume that your 
-introduction to the workshop content -- i.e. what they can expect to learn -- will occur either before or after this segment. 
+To prepare for the next activity, take 5 minutes to draft a short introduction to your online workshop. What do your learners need to know about how to get the most out of your workshop? How will you teach them to participate? 
+Aim for to speak for no more than 3 minutes. Assume that your introduction to the workshop content -- i.e. what they can expect to learn -- will occur either before or after this segment. 
 
 
-> ## Activity 6 (10 min)
+> ## Activity 6 (15 min)
 > - Rehearse your introduction! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
 > - As time allows, share some similarities and differences in introductions within your group in the etherpad.
 > - Group 6 completes Activity 0
 {: .challenge}
 
 
-
-> ## Activity 7 (20 min)
-> - Take turns presenting and observing the 'learner view' of a 3 minute live coding segment for your workshop.
-> - In this case, it is probably best to provide feedback immediately after each section is complete. Start with the presenter giving feedback on themselves. Feedback should mainly be focused on the online teaching and learning environment. A little general feedback is ok, where applicable, but keep an eye on the time.
-> - Groups 7 and 8 complete Activity 0 (1st and 2nd half). Note that both groups will have an opportunity to complete this activity promptly using the extra time in Activity 8.
-{: .challenge}
-
-
-> ## Activity 8 (10 min)
+> ## Activity 7 (15 min)
 > - Each group should discuss or complete the activity they missed while doing Activity 0. 
 {: .challenge}
 
