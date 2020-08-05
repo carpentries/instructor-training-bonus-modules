@@ -1,21 +1,19 @@
 ---
 title: "Online Workshops Module 1: Know Your Tools"
 teaching: 50
-exercises: 60
+exercises: 40
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
 - "What do I do if my learners are unable to install the software?"
-- "How can the instructional team communicate during a workshop?"
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
 - "Create a plan to communicate with learners during a workshop."
-- "Create a plan for behind-the-scenes communication during a workshop."
+- "Understand pros and cons of cloud options provided for learners with unresolvable software problems."
 keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothy."
 - "Cloud instances can resolve software installation problems, but also have their own unique limitations."
-- "Instructors and Helpers need a separate back-channel and a plan for notifications or connections failures."
 ---
 
 > ## Introduce yourself!
@@ -226,20 +224,6 @@ computer once the workshop has begun.**
 {: .challenge}
 
 
-## Behind-the-Scenes: communicating with your instructional team
-So far we have discussed challenges and solutions for interacting with your learners. However, another missing piece in the online environment is the ability for instructors and helpers to chat during breaks or otherwise communicate about the progress of the workshop. 
-
-As noted in our earlier conversations, a noisy chat can create real problems for learners trying to communicate with the Instructor. So, the instructional team needs a plan.
-
-In the next activity, consider the many different things that an instructional team might want or need to communicate during a workshop. For example, a helper might not know how to solve a problem that a learner has asked about, and may need to reach out to others to help *them*. What other 'use cases' can you think of for communications within the instructional team?
-
-> ## Activity 3 (15 min): 
-> - Identify use cases for behind-the-scenes conversations (3 min)
-> - Brainstorm a few worst case scenarios for these use cases (3 min)
-> - Individually, draft a plan for communication within the instructional team that you think would work well for your workshop. Write this in the etherpad. (4 min)
-> - Group 3 completes Activity 0
-{: .challenge}
---------
 
 # BREAK
 
