@@ -14,14 +14,17 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## Understanding the Learner Experience
-In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. But, there is more to communication than choosing a platform! 
+## Setting the Stage for a Positive Learner Experience
+In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. 
+But, there is more to communication than choosing a platform! 
 
 Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
 
 'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different 
 ways. Some effects can be positive! But where features of a learner's environment create barriers, a little advance planning can go a long way. Consider the home 
 enviroment and equipment along with other potential accessibility issues, and plan accommodations wherever possible.
+
+What kind of experience do you want your learners to have? What kinds of things can get in the way, and how can we help?
 
 > ## Solutions (examples)
 > Optimal experience:
@@ -48,8 +51,12 @@ enviroment and equipment along with other potential accessibility issues, and pl
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
 
+Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
+plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
+
 > ## Activity 3 (20 min)
-> - Rehearse your introduction! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
+> - Have a look at the guidelines on our [Recommendations](https://carpentries.org/online-workshop-recommendations/#communicate-information-learners-need-to-know) page, and prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
+> - Rehearse! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
 > - As time allows, share some similarities and differences in introductions within your group in the etherpad.
 > - Group 3 completes Activity 0
 {: .challenge}
@@ -76,14 +83,13 @@ In the next activity, you will work with your group to tease apart the preparati
 
 > ## Activity 4 (20 min)
 > Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
-> 1. Think ahead to the meeting(s) you will have with your instructional team to prepare to teach your online workshop. 
-> - Identify 1 checklist item that can be established before the meeting (asynchronously)
-> - Identify 1 checklist item to address during the meeting?
-> - Identify 1 checklist item to be completed after the meeting (asynchronously)
-> Share your list with your group. With the time remaining, sketch out some communications plans for your instructional team. 
+> This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
+> Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
 > - How will you communicate before the workshop?
+> - What can be done asynchronously and what needs a meeting?
 > - How will you communicate during the workshop?
-> - What will you do if someone you are trying to communicate with fails to respond?
+> - What could go wrong, and how will you troubleshoot?
+>
 > - Group 4 completes Activity 0
 {: .challenge}
 
