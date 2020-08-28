@@ -5,14 +5,15 @@ exercises: 55
 questions:
 - "What goes into planning an online workshop?"
 - "What does an optimal learner experience look like? What can get in the way?"
-- "Which classroom teaching practices translate to an online environment? Which need to be replaced?"
 - "How can I make my workshop maximally inclusive?"
+- “What do I do if my learners are unable to install the software?”
 objectives:
 - "Write and rehearse an introduction to the nuts and bolts of your online workshop."
 - "Propose communications strategies for your instructional team."
 keypoints:
 - "Learners experience many barriers to participation in online workshops. Planning ahead and communicating well will support them in finding a path to success."
 - "Effective team work depends on communication."
+- “Cloud instances can resolve software installation problems, but also have their own unique limitations.”
 ---
 
 ## Setting the Stage for a Positive Learner Experience
