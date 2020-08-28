@@ -5,7 +5,6 @@ exercises: 40
 questions:
 - "How do you use Zoom host and co-host features?"
 - "What do workshop attendees need to know about interacting on Zoom?"
-- "What do I do if my learners are unable to install the software?"
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
 - "Create a plan to communicate with learners during a workshop."
