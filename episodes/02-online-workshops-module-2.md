@@ -55,13 +55,51 @@ What kind of experience do you want your learners to have? What kinds of things 
 Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
 plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
 
-> ## Activity 3 (20 min)
+> ## Activity 2 (20 min)
 > - Have a look at the guidelines on our [Recommendations](https://carpentries.org/online-workshop-recommendations/#communicate-information-learners-need-to-know) page, and prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
 > - Rehearse! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
 > - As time allows, share some similarities and differences in introductions within your group in the etherpad.
-> - Group 3 completes Activity 0
+> - Group 2 completes Activity 0
 {: .challenge}
 
+## A Few Notes on Cloud Instances
+At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
+as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
+installation problems can be a tremendous challenge even at an in-person event. 
+
+In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally
+unsolvable. Therefore, The Carpentries now provides cloud instances for each curriculum, pre-loaded with all required software and data.
+These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
+
+There are two main types of cloud instances to be used for Carpentries workshops, each appropriate for different lessons:
+
+- **RStudio Cloud**
+    - R-based lessons
+    - Git lessons
+- **MyBinder**
+    - Python-based lessons
+    - Shell lessons (in the absence of R or Git)
+
+RStudio Cloud
+- Requires sign-in
+- Starts up quickly
+- Identical interface to RStudio
+- Saves changes to the learner's own account
+- Does not include nano text editor (must use RStudio text editor)
+
+MyBinder
+- Does not require sign-in
+- Can be slow to load if not used in previous 12 hours
+- Identical interface to Jupyter Hub & Jupyter Lab
+- Does not save to the cloud (must save notebooks and modified data to desktop and re-upload)
+- Session stops after 10 minutes inactivity
+- Non-private session means that login information should not be used. **Do not connect to GitHub from MyBinder.**
+- Has nano text editor installed
+
+If you register your Carpentries workshop with us, you will receive links to backup solutions for your event in a pre-workshop email sent by our workshop coordinators. This email will also
+include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
+recommend that you **only share this information with those learners who have not successfully completed installation on their own
+computer once the workshop has begun.**
 
 
 ## Planning your workshop
@@ -82,7 +120,7 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 {: .solution}
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
-> ## Activity 4 (20 min)
+> ## Activity 3 (20 min)
 > Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
 > This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
 > Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
@@ -91,7 +129,7 @@ In the next activity, you will work with your group to tease apart the preparati
 > - How will you communicate during the workshop?
 > - What could go wrong, and how will you troubleshoot?
 >
-> - Group 4 completes Activity 0
+> - Group 3 completes Activity 0
 {: .challenge}
 
 Resources:
@@ -99,8 +137,10 @@ Resources:
 
 
 
-> ## Activity 5 (15 min)
-> - Each group should discuss or complete the activity they missed while doing Activity 0. 
+> ## Activity 4 (15 min)
+> - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
+>
+> - Group 4 completes Activity 0
 {: .challenge}
 
 ## Wrap-up
