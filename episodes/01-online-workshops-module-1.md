@@ -27,7 +27,7 @@ keypoints:
 > The introductory procedures for this workshop should present an ideal model to attendees. This means paying attention to *all* the details, even though some 
 > may feel less necessary for a short and small event of this kind. Later activities can then reference practices displayed here.
 > 
-> Hello! My name is [ name ] and I will be your host for for today. As a Carpentries event, this workshop is covered by The Carpentries Code of Conduct. That 
+> *Hello! My name is [ name ] and I will be your host for for today. As a Carpentries event, this workshop is covered by The Carpentries Code of Conduct. That 
 > means we will all bring our best selves to support each other in preparing to teach online here today. If you have any concerns you will find links for reporting in the Etherpad.
 > Before we get started I want to be sure that we all have a plan should anyone lose their  
 > connection, including me. We will be using the Etherpad to keep notes and links. You will find a link to rejoin this meeting there, as well as links to the
@@ -40,7 +40,7 @@ keypoints:
 > to move between them.
 > In the first exercise, we'll be doing Introductions -- in addition to breaking the ice, we will also be practising one mode of handraising. As we will discuss 
 > there are many ways to raise hands in Zoom, and you may try them all, but writing "hand" in the chat is the method I'll be paying most attention to today.
-> Please open the Etherpad using the link in the chat if you have not already done so, sign in there, and then write "hand" in the chat.
+> Please open the Etherpad using the link in the chat if you have not already done so, sign in there, and then write "hand" in the chat.*
 >
 {: .solution}
 
