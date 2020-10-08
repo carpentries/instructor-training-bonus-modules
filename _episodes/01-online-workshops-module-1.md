@@ -17,7 +17,8 @@ keypoints:
 >
 > Discussion Lead: Introduces the workshop, facilitates icebreakers and discussions of all activities except Activity 0 (using Host powers in Zoom). 
 > 
-> Zoom Lead: Assumes (& transfers) "host" role in Zoom, manages breakouts & waiting room, monitors chat, mutes noise, keeps time. Facilitates Activity 0.
+> Zoom Lead: Assumes (& transfers) "host" role in Zoom, manages breakouts & waiting room, monitors chat, mutes noise, keeps time. Facilitates Activity 0. If you 
+> wish to demonstrate Zoom captioning, the Zoom Lead can take on this role when participants introduce themselves, since it is not necessary to take notes then.
 >
 {: .solutions}
 
@@ -45,6 +46,8 @@ keypoints:
 > In the first exercise, we'll be doing Introductions -- in addition to breaking the ice, we will also be practising one mode of handraising. As we will discuss 
 > there are many ways to raise hands in Zoom, and you may try them all, but writing "hand" in the chat is the method I'll be paying most attention to today.
 > Please open the Etherpad using the link in the chat if you have not already done so, sign in there, and then write "hand" in the chat.*
+>
+> *(Optional) During your Introductions [name of Zoom lead] will be demonstrating Zoom's manual captioning feature. They will transition to taking notes in the Etherpad after that.*
 >
 {: .solution}
 
