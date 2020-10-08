@@ -12,6 +12,26 @@ keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothy."
 ---
+> ## Workshop Welcome Template
+> The introductory procedures for this workshop should present an ideal model to attendees. This means paying attention to *all* the details, even though some 
+> may feel less necessary for a short and small event of this kind. Later activities can then reference practices displayed here.
+> 
+> Hello! My name is [ name ] and I will be your host for for today. As a Carpentries event, this workshop is covered by The Carpentries Code of Conduct. That 
+> means we will all bring our best selves to support each other in preparing to teach online here today. If you have any concerns you will find links for reporting in the Etherpad.
+> Before we get started I want to be sure that we all have a plan should anyone lose their  
+> connection, including me. We will be using the Etherpad to keep notes and links. You will find a link to rejoin this meeting there, as well as links to the
+> curriculum. Please be sure you have the Etherpad link available someplace other than our meeting chat. You may be able to send messages there if your call
+> drops. If I lose connection, my co-host, [ name ] will take over. If the call ends, you should be able to reconnect using the information you originally came
+> with. Should we have a general failure I will contact folks by email when I can.
+> This is a 3 hour workshop with a 15 minute break in the middle. We will take our break at 30 minutes past the next hour regardless of where we are in the curriculum at that time.
+> The curriculum is primarily for reference outside the workshop, so don't worry about trying to display it or juggling it with your Zoom screen. You may want to 
+> take a moment to arrange your windows so that you can see the Etherpad and Zoom at the same time. If you prefer to alternate, I will also tell you when we need
+> to move between them.
+> In the first exercise, we'll be doing Introductions -- in addition to breaking the ice, we will also be practising one mode of handraising. As we will discuss 
+> there are many ways to raise hands in Zoom, and you may try them all, but writing "hand" in the chat is the method I'll be paying most attention to today.
+> Please open the Etherpad using the link in the chat if you have not already done so, sign in there, and then write "hand" in the chat.
+>
+{: .solution}
 
 > ## Introduce yourself!
 > In the Etherpad, please sign in with your name, pronouns, and a fun fact about your local area. Note that you can customize your color at the top right. Also, in Zoom, please adjust your name as needed and add pronouns. You can do this by clicking the drop-down to the right of your name in the participants window.
