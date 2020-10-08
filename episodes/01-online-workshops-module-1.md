@@ -20,7 +20,7 @@ keypoints:
 > Zoom Lead: Assumes (& transfers) "host" role in Zoom, manages breakouts & waiting room, monitors chat, mutes noise, keeps time. Facilitates Activity 0. If you 
 > wish to demonstrate Zoom captioning, the Zoom Lead can take on this role when participants introduce themselves, since it is not necessary to take notes then.
 >
-{: .solutions}
+{: .solution}
 
 
 
