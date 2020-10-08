@@ -24,7 +24,7 @@ keypoints:
 
 
 
-> ## Workshop Welcome Template
+> ## Workshop Welcome Template (5 min)
 > The introductory procedures for this workshop should present an ideal model to attendees. This means paying attention to *all* the details, even though some 
 > may feel less necessary for a short and small event of this kind. Later activities can then reference practices displayed here.
 > 
@@ -51,14 +51,14 @@ keypoints:
 >
 {: .solution}
 
-> ## Introduce yourself!
+> ## Introduce yourself! (10 min)
 > In the Etherpad, please sign in with your name, pronouns, and a fun fact about your local area. Note that you can customize your color at the top right. Also, in Zoom, please adjust your name as needed and add pronouns. You can do this by clicking the drop-down to the right of your name in the participants window.
 >
 > When you are finished, please raise your hand by writing "hand" in the chat. When the Trainer calls on you, unmute and briefly say your name and location (city, country). We'll save the fun facts for your first breakout sessions.
 >
 {: .challenge}
 
-## Introduction
+## Introduction (5 min)
 If you have been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
 
 * A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you have got a challenge unto itself – independent of the lesson's content.
@@ -72,15 +72,15 @@ We will talk about each of these challenges in the course of this workshop.
 
 In the first part of the workshop, we will talk about technology. With the recent global lockdowns, many have had an opportunity to become more familiar with video conferencing and remote collaboration platforms. However, the ways in which these work well or present challenges in the context of a workshop can still be surprising! You will get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need -- in addition to the content of your workshop!
 
-After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/). Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how technology and teamwork can create a positive learning environment in your workshop. We will brainstorm challenges and demotivating scenarios to avoid. And last but certainly not least, you will have an opportunity to practice introducing your workshop and participate in feedback specific to the online  setting.
+After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/). Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how technology and teamwork can create a positive learning environment in your workshop. We will brainstorm challenges and demotivating scenarios to avoid. You will have an opportunity to practice introducing your workshop and participate in feedback specific to the online  setting, and will take time to start planning your within-team coordination efforts to get your workshop off to the best possible start.
 
 Please note that this workshop is intended to supplement, but not to replace The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
 
-## How to Host a Workshop: a technical guide
+## How to Host a Workshop: a technical guide (20 minutes)
 The video conferencing platform used by The Carpentries is Zoom. However, your hosting organisation may have another platform. 
 
-> ## What platform will you use?
+> ## What platform will you use? 
 > In the Etherpad, please indicate with an "X" which platform you will be using for your workshop. If you do not see yours listed, please add it.
 > - Zoom
 > - Jitsi
@@ -105,7 +105,7 @@ your email address if you would like us to follow up!
 {: .discussion}
 
 
-### Host Powers on Zoom
+### Host Powers on Zoom 
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your 
 introductory email to "Claim Host". Below is a screenshot, as the host of your current session will be unable to display this during demonstration:
 
@@ -119,14 +119,14 @@ As host, you can:
 
 - **Enable and move participants to a waiting room.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can 
 communicate with people in waiting rooms by issuing announcements, but cannot communicate directly with individuals in the waiting room. People in the waiting 
-room can not message the host. 
+room can not message the host. Take care to press "Admit" if you want to let someone back in -- "Remove" can sound like a good idea (remove them from the waiting room? sure!) but will kick the person out of the meeting, in some cases permanently. (They should be able to rejoin in Carpentries rooms.) 
 
 - **Mute (but not unmute) participants.** In Carpentries rooms, participants are allowed to unmute themselves by default, but this setting can be changed by the 
 host if you want or need to enforce muting. This role can also be performed by co-hosts. Rather than unmuting, Zoom will send a request to the participant to unmute.
 
 - **Turn off (but not on) participants' video.** Rather than turning the video back on, Zoom will send a request to the participant to activate their video.
 
-- **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create breakout rooms. We suggest creating an extra room or two just in case.
+- **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create and manage breakout rooms. Co-hosts can move between breakout rooms after entering an assigned room. We suggest creating an extra room or two just in case. 
 
 - **Control screen sharing.** In Carpentries rooms, only the host can screen share by default. 
 
@@ -134,16 +134,27 @@ host if you want or need to enforce muting. This role can also be performed by c
 
 
 > ## Activity 0 (to be carried out in parallel with other activities)
+> 
 > - Group 1 takes turns 
->     - receiving host status
->     - assigning co-host status (to another group member)
->     - muting/unmuting
->     - sending a participant to the waiting room (a group member who is not co-host)
->     - screensharing
->     - adjusting who can share their screen
->     - managing, messaging, and visiting breakouts (but not creating them)
->     - closing the breakout rooms (if you are the last group member to act as host)
->     - assigning host to someone else (either to another group member, or if everyone has had a turn as host, back to the instructor)
+>     - Receiving host status
+>     - Assigning co-host status (to another group member)
+>     - Muting/unmuting
+>     - Sending a participant to the waiting room (a group member who is not co-host)
+>     - Screensharing
+>     - Adjusting who can share their screen
+>     - Managing, messaging, and visiting breakouts (but not creating them)
+>     - Closing the breakout rooms (if you are the last group member to act as host)
+>     - Assigning host to someone else (either to another group member, or if everyone has had a turn as host, back to the instructor)
+>
+> The following list may be pasted into the Zoom chat for participants' reference:
+> Assign a co-host
+> Mute/unmute
+> Send group member to waiting room
+> Share screen
+> Adjust who can share screen
+> Breakouts: manage, message, visit
+> (if last) Close breakouts
+> Reassign host
 {: .challenge}
 
 Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might enter your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please be patient with us! :)
@@ -151,7 +162,7 @@ Since this activity will be carried out during other activities, be aware that p
 ### Resources:
 - For more details, see the section on Zoom in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html?highlight=zoom#information-for-event-hosts).
 
-## Interacting with your Learners Online
+## Interacting with your Learners Online (5 min)
 
 At all Carpentries workshops, we take the quality of our communications seriously. We communicate to inspire, sharing our enthusiasm while being mindful of demotivating language and systemic bias. We communicate to re-frame errors as opportunities for learning. And of course we communicate to teach, focusing our learners on precisely what they need to know, and avoiding extraneous cognitive load.  
 
@@ -169,13 +180,13 @@ Then, there is the problem of side conversations. In a video conference, unless 
 
 These are two examples of challenges presented by the video conferencing environment that might send a workshop spinning into dysfunction. But, we have all had some practice with video meetings by now, and unless you are exceptionally lucky you have had a few experiences that might contribute to your ideas about what *not* to do.
 
-During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team. You do not need to consider communications *within* the instructional team (e.g. between Helpers and Instructors) just yet -- we will discuss that soon. 
+During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team, or within the instructional team. 
 
 > ## Activity 1 (20 min): 
 > - Groups 2+:
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. Also, designate one person to share a few key points or questions with the class when you return. Plan to rotate these roles as much as possible/practical as we move through the activities today.
->     - 5 minutes: brainstorm potential communications failures that may occur during a workshop. 
+>     - 5 minutes: brainstorm potential communications failures that may occur during a workshop. In this case, think in terms of technical failures rather than personal ones. What communications challenges are presented by the Zoom environment? What scenarious have frustrated you in virtual classes and meetings so far?
 >     - 5 minutes: draft solutions/ pre-emptive plans to create a best-case scenario for communications during your workshop.
 >  
 > - Group 1:
@@ -187,7 +198,7 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 Additional resources:
 [Coderefinery learner's guide to zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
 
-> ## Trainers' Note: Keeping Time
+> ## Keeping Time
 >
 > There are many ways to keep time during activities, but here are two suggestions that allow everyone to keep track of how much time is left: 
 >
@@ -195,6 +206,9 @@ Additional resources:
 >
 > - **[Cuckoo Timer](https://cuckoo.team/):**  Cuckoo timer is a website where you can set a timer and share it with other people via a link. 
 {: .discussion}
+
+### Debrief (5 min)
+Each group should share a few problems and solutions identified during their group conversations. 
 
 # BREAK
 
