@@ -102,8 +102,10 @@ host if you want or need to enforce muting. This role can also be performed by c
 >     - muting/unmuting
 >     - sending a participant to the waiting room (a group member who is not co-host)
 >     - screensharing
->     - adjusting screensharing limits
+>     - adjusting who can share their screen
 >     - managing, messaging, and visiting breakouts (but not creating them)
+>     - closing the breakout rooms (if you are the last group member to act as host)
+>     - assigning host to someone else (either to another group member, or if everyone has had a turn as host, back to the instructor)
 {: .challenge}
 
 Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might enter your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please be patient with us! :)
@@ -147,7 +149,14 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 Additional resources:
 [Coderefinery learner's guide to zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
 
-
+> ## Trainers' Note: Keeping Time
+>
+> There are many ways to keep time during activities, but here are two suggestions that allow everyone to keep track of how much time is left: 
+>
+> - **Zoom Countdown Timer:** Zoom has an option to set a countdown timer for breakout rooms. After creating the breakout rooms, click Options to view additional breakout rooms options. Check Set Countdown timer: If this option is checked, the participants will be given a countdown of how much time they have left before being returned to the main room. One downside to this method is that, when the countdown hits 0, the  breakout rooms automatically close meaning you won't be able to change your mind or add more time. 
+>
+> - **[Cuckoo Timer](https://cuckoo.team/):**  Cuckoo timer is a website where you can set a timer and share it with other people via a link. 
+{: .discussion}
 
 # BREAK
 
