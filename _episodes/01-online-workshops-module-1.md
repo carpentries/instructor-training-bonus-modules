@@ -12,14 +12,14 @@ keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothy."
 ---
-> > ## Workshop Roles
+>  ## Workshop Roles
 > This workshop in intended to be taught by two people. The Discussion Lead should be a Carpentries Instructor Trainer and the Zoom Lead may be a Trainer or Instructor.
 >
 > Discussion Lead: Introduces the workshop, facilitates icebreakers and discussions of all activities except Activity 0 (using Host powers in Zoom). 
 > 
 > Zoom Lead: Assumes (& transfers) "host" role in Zoom, manages breakouts & waiting room, monitors chat, mutes noise, keeps time. Facilitates Activity 0.
 >
-{: .challenge}
+{: .solutions}
 
 
 
