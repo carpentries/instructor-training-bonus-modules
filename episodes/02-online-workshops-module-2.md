@@ -1,6 +1,6 @@
 ---
 title: "Online Workshops Module 2: Making the Dream Work"
-teaching: 20
+teaching: 35
 exercises: 55
 questions:
 - "What goes into planning an online workshop?"
@@ -16,7 +16,7 @@ keypoints:
 - “Cloud instances can resolve software installation problems, but also have their own unique limitations.”
 ---
 
-## Setting the Stage for a Positive Learner Experience
+## Setting the Stage for a Positive Learner Experience (30 min) 
 In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. 
 But, there is more to communication than choosing a platform! 
 
@@ -57,15 +57,17 @@ Creating a welcoming environment for your learners starts with teaching them how
 plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
 
 > ## Activity 2 (20 min)
+> - Rotate group roles: moderator, time keeper, note-taker & sharer.
 > - Have a look at the guidelines on our [Recommendations](https://carpentries.org/online-workshop-recommendations/#communicate-information-learners-need-to-know) page, and prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
 > - Rehearse! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
 > - As time allows, share some similarities and differences in introductions within your group in the etherpad.
 > - Group 2 completes Activity 0
 {: .challenge}
 
+### Debrief (time permiting)
+Take a few moments to report back on your experience. What did you learn? What were the challenges?
 
-
-## Planning your workshop
+## Planning your workshop (30 minutes)
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
 workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
 a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
@@ -84,6 +86,7 @@ What makes a good meeting? Generate some ideas as a group, then check below to b
 In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
 > ## Activity 3 (20 min)
+> - Rotate group roles: moderator, time keeper, note-taker & sharer.
 > Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
 > This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
 > Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
@@ -95,10 +98,13 @@ In the next activity, you will work with your group to tease apart the preparati
 > - Group 3 completes Activity 0
 {: .challenge}
 
+### Debrief (10 min)
+Take a few moments to share some ideas or observations from each group's discussion.
+
 Resources:
 "[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
 
-## A Few Notes on Cloud Instances (Time permitting)
+## A Few Notes on Cloud Instances (time permitting)
 At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
 as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
 installation problems can be a tremendous challenge even at an in-person event. 
