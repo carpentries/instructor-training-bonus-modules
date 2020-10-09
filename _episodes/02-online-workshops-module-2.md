@@ -16,11 +16,11 @@ keypoints:
 - “Cloud instances can resolve software installation problems, but also have their own unique limitations.”
 ---
 
-## Setting the Stage for a Positive Learner Experience (30 min) 
+## Setting the Stage for a Positive Learner Experience (40 min) 
 In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. 
 But, there is more to communication than choosing a platform! 
 
-### The Learner Experience: Challenges and Opportunities
+### The Learner Experience: Challenges and Opportunities (10 min)
 Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
 
 'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different 
@@ -54,7 +54,7 @@ What kind of experience do you want your learners to have? What kinds of things 
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
 
-### Getting Off to a Good Start
+### Getting Off to a Good Start (10 min)
 Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
 plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
 
@@ -82,7 +82,7 @@ At the beginning of this workshop, your Trainer took several steps to teach you 
 ### Debrief (time permiting)
 Take a few moments to report back on your experience. What did you learn? What were the challenges?
 
-## Planning Planning Planning (30 minutes)
+## Planning Planning Planning (35 minutes)
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
 workshop demands **teamwork**, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
 a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
@@ -113,11 +113,18 @@ In the next activity, you will work with your group to tease apart the preparati
 > - Group 3 completes Activity 0
 {: .challenge}
 
-### Debrief (10 min)
+### Debrief (5 min)
 Take a few moments to share some ideas or observations from each group's discussion.
 
 Resources:
 "[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
+
+## Group Catch-up (15 min)
+> ## Activity 4 (15 min)
+> - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
+>
+> - Group 4 completes Activity 0
+{: .challenge}
 
 ## A Few Notes on Cloud Instances (time permitting)
 At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
@@ -158,14 +165,8 @@ include information about the caveats discussed above and a link to detailed ins
 recommend that you **only share this information with those learners who have not successfully completed installation on their own
 computer once the workshop has begun.**
 
-
-> ## Activity 4 (15 min)
-> - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
->
-> - Group 4 completes Activity 0
-{: .challenge}
-
 ## Wrap-up
+ We are here to support your work! If you have questions about organizing your online workshop, contact team@carpentries.org.
 
 {% include links.md %}
 
