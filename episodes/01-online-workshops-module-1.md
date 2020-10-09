@@ -77,7 +77,7 @@ After the break, we will come back to talk about *teaching*. If you are taking t
 Please note that this workshop is intended to supplement, but not to replace The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
 
-## How to Host a Workshop: a technical guide (20 minutes)
+## How to Host a Workshop: a technical guide (20 min)
 The video conferencing platform used by The Carpentries is Zoom. However, your hosting organisation may have another platform. 
 
 > ## What platform will you use? 
@@ -162,7 +162,7 @@ Since this activity will be carried out during other activities, be aware that p
 ### Resources:
 - For more details, see the section on Zoom in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html?highlight=zoom#information-for-event-hosts).
 
-## Interacting with your Learners Online (5 min)
+## Interacting with your Learners Online (40 min)
 
 At all Carpentries workshops, we take the quality of our communications seriously. We communicate to inspire, sharing our enthusiasm while being mindful of demotivating language and systemic bias. We communicate to re-frame errors as opportunities for learning. And of course we communicate to teach, focusing our learners on precisely what they need to know, and avoiding extraneous cognitive load.  
 
@@ -207,7 +207,7 @@ Additional resources:
 > - **[Cuckoo Timer](https://cuckoo.team/):**  Cuckoo timer is a website where you can set a timer and share it with other people via a link. 
 {: .discussion}
 
-### Debrief (5 min)
+### Debrief (10 min)
 Each group should share a few problems and solutions identified during their group conversations. 
 
 # BREAK
