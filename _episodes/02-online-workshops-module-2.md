@@ -63,7 +63,42 @@ plan for every possible contingency, but if your learners don't know how they fi
 > - Group 2 completes Activity 0
 {: .challenge}
 
-## A Few Notes on Cloud Instances
+
+
+## Planning your workshop
+At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
+workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
+a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
+really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and 
+to distribute roles with regard to communications management.
+
+What makes a good meeting? Generate some ideas as a group, then check below to be sure these items are included:
+> ## Solutions
+> - A well-structured agenda
+> - Meeting roles
+> - Notes to record decisions & commitments for future reference
+> - Clearly assigned action items
+> - Central aims accomplished in allotted time
+> 
+{: .solution}
+In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
+
+> ## Activity 3 (20 min)
+> Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
+> This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
+> Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
+> - How will you communicate before the workshop?
+> - What can be done asynchronously and what needs a meeting?
+> - How will you communicate during the workshop?
+> - What could go wrong, and how will you troubleshoot?
+>
+> - Group 3 completes Activity 0
+{: .challenge}
+
+Resources:
+"[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
+
+## A Few Notes on Cloud Instances (Time permitting)
 At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
 as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
 installation problems can be a tremendous challenge even at an in-person event. 
@@ -101,41 +136,6 @@ If you register your Carpentries workshop with us, you will receive links to bac
 include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
 recommend that you **only share this information with those learners who have not successfully completed installation on their own
 computer once the workshop has begun.**
-
-
-## Planning your workshop
-At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
-workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
-a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
-really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and 
-to distribute roles with regard to communications management.
-
-What makes a good meeting? Generate some ideas as a group, then check below to be sure these items are included:
-> ## Solutions
-> - A well-structured agenda
-> - Meeting roles
-> - Notes to record decisions & commitments for future reference
-> - Clearly assigned action items
-> - Central aims accomplished in allotted time
-> 
-{: .solution}
-In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
-
-> ## Activity 3 (20 min)
-> Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
-> This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
-> Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
-> - How will you communicate before the workshop?
-> - What can be done asynchronously and what needs a meeting?
-> - How will you communicate during the workshop?
-> - What could go wrong, and how will you troubleshoot?
->
-> - Group 3 completes Activity 0
-{: .challenge}
-
-Resources:
-"[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
-
 
 
 > ## Activity 4 (15 min)
