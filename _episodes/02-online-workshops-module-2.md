@@ -119,7 +119,7 @@ Take a few moments to share some ideas or observations from each group's discuss
 Resources:
 "[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
 
-## Group Catch-up (15 min)
+## Group Catch-up
 > ## Activity 4 (15 min)
 > - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
 >
