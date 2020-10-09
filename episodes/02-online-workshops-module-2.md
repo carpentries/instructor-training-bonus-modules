@@ -20,6 +20,7 @@ keypoints:
 In Part 1 of this lesson, we talked about the importance of the right tool at the right time in setting the stage for a motivating, focused workshop experience. 
 But, there is more to communication than choosing a platform! 
 
+### The Learner Experience: Challenges and Opportunities
 Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
 
 'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different 
@@ -28,7 +29,7 @@ enviroment and equipment along with other potential accessibility issues, and pl
 
 What kind of experience do you want your learners to have? What kinds of things can get in the way, and how can we help?
 
-> ## Solutions (examples)
+> ## Example responses
 > Optimal experience:
 > - understands the instructor
 > - can keep up with live coding
@@ -53,12 +54,26 @@ What kind of experience do you want your learners to have? What kinds of things 
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .solution}
 
+### Getting Off to a Good Start
 Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
 plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
 
+At the beginning of this workshop, your Trainer took several steps to teach you how to participate in *this* workshop. What kinds of things did they do? What else could they have included?
+
+> ## Introduction ingredients
+> In addition to introducing the exciting content of your workshop, your learners need to know what to expect and how to behave. This should include:
+> - The workshop schedule (including break times)
+> - The Code of Conduct
+> - The Emergency Plan
+> - How to use the technology (e.g., conferencing platform features, chat, collaborative notetaking document)
+> - Communication norms (e.g., How to ask questions, how to indicate when you are ok or stuck)
+> - How to arrange windows on a single, small laptop screen
+> 
+{: .solution}
+
 > ## Activity 2 (20 min)
 > - Rotate group roles: moderator, time keeper, note-taker & sharer.
-> - Have a look at the guidelines on our [Recommendations](https://carpentries.org/online-workshop-recommendations/#communicate-information-learners-need-to-know) page, and prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
+> - Prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
 > - Rehearse! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
 > - As time allows, share some similarities and differences in introductions within your group in the etherpad.
 > - Group 2 completes Activity 0
@@ -67,9 +82,9 @@ plan for every possible contingency, but if your learners don't know how they fi
 ### Debrief (time permiting)
 Take a few moments to report back on your experience. What did you learn? What were the challenges?
 
-## Planning your workshop (30 minutes)
+## Planning Planning Planning (30 minutes)
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
-workshop demands teamwork, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
+workshop demands **teamwork**, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
 a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
 really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and 
 to distribute roles with regard to communications management.
@@ -87,13 +102,13 @@ In the next activity, you will work with your group to tease apart the preparati
 
 > ## Activity 3 (20 min)
 > - Rotate group roles: moderator, time keeper, note-taker & sharer.
-> Take a few minutes to individually review the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
+> Take a deep breath, then spend a few minutes scanning the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
 > This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
 > Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
 > - How will you communicate before the workshop?
-> - What can be done asynchronously and what needs a meeting?
+> - Identify one task that can be done asynchronously, and one task that likely requires a meeting
 > - How will you communicate during the workshop?
-> - What could go wrong, and how will you troubleshoot?
+> - What could go wrong with team communications, and how will you troubleshoot?
 >
 > - Group 3 completes Activity 0
 {: .challenge}
