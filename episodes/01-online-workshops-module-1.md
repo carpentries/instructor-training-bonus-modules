@@ -39,7 +39,7 @@ keypoints:
 > This is a 3 hour workshop with a 15 minute break in the middle. We will take our break at 30 minutes past the next hour regardless of where we are in the curriculum at that time.
 >
 > The curriculum is primarily for reference outside the workshop, so don't worry about trying to display it or juggling it with your Zoom screen. You may want to 
-> take a moment to arrange your windows so that you can see the Etherpad and Zoom at the same time. If you prefer to alternate, I will also tell you when we need
+> take a moment to arrange your windows so that you can [see the Etherpad and Zoom at the same time](https://carpentries-incubator.github.io/instructor-training-bonus-modules/fig/ScreenOrganization.png). If you prefer to alternate, I will also tell you when we need
 > to move between them. If you need any direct assistance during the workshop, you may message [name of Zoom lead] in the chat. Note that you can send private 
 > messages by selecting someone's name in the dropdown next to the "To:" in the chat window.
 >
