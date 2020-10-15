@@ -148,13 +148,14 @@ host if you want or need to enforce muting. This role can also be performed by c
 >
 > The following list may be pasted into the Zoom chat for participants' reference:
 > Assign a co-host
-> Mute/unmute
-> Send group member to waiting room
-> Share screen
-> Adjust who can share screen
-> Breakouts: manage, message, visit
-> (if last) Close breakouts
-> Reassign host
+>
+> Mute/unmute  
+> Send group member to waiting room  
+> Share screen  
+> Adjust who can share screen  
+> Breakouts: manage, message, visit  
+> (if last) Close breakouts  
+> Reassign host  
 {: .challenge}
 
 Since this activity will be carried out during other activities, be aware that people will be playing with the host features for our meeting during your breakout sessions! This will mean someone might enter your breakout room for a visit, or you might see a silly message posted from time to time. If any other strange things happen... please be patient with us! :)
