@@ -146,9 +146,8 @@ host if you want or need to enforce muting. This role can also be performed by c
 >     - Closing the breakout rooms (if you are the last group member to act as host)
 >     - Assigning host to someone else (either to another group member, or if everyone has had a turn as host, back to the instructor)
 >
-> The following list may be pasted into the Zoom chat for participants' reference:
-> Assign a co-host
->
+> The following list may be pasted into the Zoom chat for participants' reference:  
+> Assign a co-host  
 > Mute/unmute  
 > Send group member to waiting room  
 > Share screen  
