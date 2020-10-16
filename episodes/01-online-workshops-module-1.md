@@ -133,7 +133,7 @@ host if you want or need to enforce muting. This role can also be performed by c
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
 
 
-> ## Activity 0 (to be carried out in parallel with other activities)
+> ## Activity Session 0 (to be carried out in parallel with other activities)
 > 
 > - Group 1 takes turns 
 >     - Receiving host status
@@ -182,7 +182,7 @@ These are two examples of challenges presented by the video conferencing environ
 
 During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team, or within the instructional team. 
 
-> ## Activity 1 (20 min): 
+> ## Activity Session 1 (20 min): 
 > - Groups 2+:
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. Also, designate one person to share a few key points or questions with the class when you return. Plan to rotate these roles as much as possible/practical as we move through the activities today.
@@ -192,7 +192,7 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 > - Group 1:
 >     - Introduce yourselves!
 >     - Complete Activity 0 in cooperation with your Trainer
->     - Take note of the role assignment instructions above for your next activity.
+>     - Take note of the role assignment instructions above for your next activity session.
 {: .challenge}
 
 Additional resources:
