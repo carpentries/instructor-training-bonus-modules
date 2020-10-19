@@ -69,7 +69,7 @@ At the beginning of this workshop, your Trainer took several steps to teach you 
 > 
 {: .solution}
 
-> ## Activity 2 (20 min)
+> ## Activity Session 2 (20 min)
 > - Rotate group roles: moderator, time keeper, note-taker & sharer.
 > - Prepare a short (3 minute) segment of your introduction that will set your learners on a course for success.
 > - Rehearse! Give everyone a chance to present first, then exchange feedback, starting with feedback on yourself. Feedback should focus primarily on content, but delivery may be relevant too. Remember to include both targeted praise and constructive feedback. 
@@ -96,9 +96,9 @@ What makes a good meeting?
 > - Central aims accomplished in allotted time
 > 
 {: .discussion}
-In the next activity, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
+In the next activity session, you will work with your group to tease apart the preparation process, separating planning into before- during- and after-the-meeting phases. 
 
-> ## Activity 3 (20 min)
+> ## Activity Session 3 (20 min)
 > - Rotate group roles: moderator, time keeper, note-taker & sharer.
 > Take a deep breath, then spend a few minutes scanning the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
 > This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
@@ -118,7 +118,7 @@ Resources:
 "[Meetings, Meetings, Meetings](http://teachtogether.tech/#s:meetings)" in _Teaching Tech Together_ by Greg Wilson
 
 ## Group Catch-up
-> ## Activity 4 (15 min)
+> ## Activity Session 4 (15 min)
 > - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
 >
 > - Group 4 completes Activity 0
