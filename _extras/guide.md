@@ -26,29 +26,29 @@ Group assignments for activity # during each time period are as follows:
 | 4 (catch-up)     | 1       | 2       | 3      | 0       |
 
   
-#### Workshop roles
+### Workshop roles
 - Discussion Lead (Trainer)
 - Zoom Lead (Trainer or Instructor)
-#### Modeling introductions
+### Modeling introductions
 Timing is (of course) tight  
 - if you have 4 groups, you *must* preserve time for all 4 activities.
 - Content between activities can be more or less interactive, depending on time
 - Zoom questions in the initial overview can be punted to Activity 0? (Maybe handled in etherpad then?)
 - Cloud instance material is optional
-#### Activity 1 overview
+### Activity 1 overview
 - Purpose is to think through technical aspects of communications online and identify potential failure points, solutions
 - Challenging to find time to debrief, but important. Making sure they report in the etherpad during breakouts helps to debrief quickly if need be.
-#### Activity 2 overview
+### Activity 2 overview
 - Purpose is to prepare participants to empathize with learner experience, then orient towards introducing a workshop in a way that will support those learners.
 - The activity itself isn't particularly well-matched to the introductory text. Maybe could be a different activity in the future. But feedback indicates that it's fine and people enjoy the practice introducing their online workshop here.
 - Group roles require a reminder.
 - Minimal debrief time is ok here -- better to spend that time in the lead-up thinking about learner challenges.
-#### Activity 3 overview
+### Activity 3 overview
 - Purpose is to prepare Instructors for the additional planning load and team coherence necessary to make a good online workshop function. 
 - It refers them to the planning checklist, which can be overwhelming, but we want them to know about it and figure out how to cope with that now.
 - Activity has been updated to ask them to find single examples of things that can be planned asychronously, require a meeting etc. 
 - Unlikely to have time to debrief.
-#### Assessment
+### Assessment
 - We will distribute pre and post survey links to participants. We would appreciate it if Zoom Lead could paste the post-survey link into the chat at the end of the workshop.
 
 {% include links.md %}
