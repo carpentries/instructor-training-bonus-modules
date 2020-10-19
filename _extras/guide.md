@@ -16,7 +16,8 @@ Work in progress -- as always but especially with new materials, contributions i
 - If you have any groups of 4, 4th group members need to be moved during Activity 0 because time doesn't allow for 4. They can complete Activity 0 during the 4th session (see table below)
 - some participants don't feel the need to participate (Zoom experts) -- it's good to ask about this first to give them a chance to opt out
 #### Group assignments
-Group assignments for activity # during each time period are as follows. 
+Group assignments for activity # during each time period are as follows:  
+
 | Activity session | Group 1 | Group 2 | Group3 | Group 4 |
 |------------------|---------|---------|--------|---------|
 | 1                | 0       | 1       | 1      | 1       |
@@ -24,6 +25,7 @@ Group assignments for activity # during each time period are as follows.
 | 3                | 3       | 3       | 0      | 3       |
 | 4 (catch-up)     | 1       | 2       | 3      | 0       |
 
+  
 #### Workshop roles
 - Discussion Lead (Trainer)
 - Zoom Lead (Trainer or Instructor)
