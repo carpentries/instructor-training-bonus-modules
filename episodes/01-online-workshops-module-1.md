@@ -88,6 +88,7 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 > - Skype
 > - Blackboard
 > - Google Meet or Hangouts
+> - Teams
 > - Other (please add!)
 {: .challenge}
 
