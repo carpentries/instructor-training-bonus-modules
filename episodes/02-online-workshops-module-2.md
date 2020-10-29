@@ -52,7 +52,7 @@ enviroment and equipment along with other potential accessibility issues, and pl
 > * Where captioning is not an option, assigning a note-taker to directly transcribe
 {: .discussion}
 
-### Getting Off to a Good Start (10 min)
+### Getting Off to a Good Start (5 min)
 Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
 plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
 
