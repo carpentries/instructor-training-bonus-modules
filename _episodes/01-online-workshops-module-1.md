@@ -129,7 +129,7 @@ host if you want or need to enforce muting. This role can also be performed by c
 
 - **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create and manage breakout rooms. Co-hosts can move between breakout rooms after entering an assigned room. We suggest creating an extra room or two just in case. 
 
-- **Control screen sharing.** In Carpentries rooms, only the host can screen share by default. 
+- **Control screen sharing.** In Carpentries rooms, only the host can screen share by default.  However, the host can change the screen sharing permissions to allow co-hosts and/or participants to screenshare. 
 
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
 
@@ -139,8 +139,8 @@ host if you want or need to enforce muting. This role can also be performed by c
 > - Group 1 takes turns 
 >     - Receiving host status
 >     - Assigning co-host status (to another group member)
->     - Muting/unmuting
->     - Sending a participant to the waiting room (a group member who is not co-host)
+>     - Muting/unmuting another group member
+>     - Sending a participant to the waiting room (a group member who is not co-host) and re-admiting them
 >     - Screensharing
 >     - Adjusting who can share their screen
 >     - Managing, messaging, and visiting breakouts (but not creating them)
