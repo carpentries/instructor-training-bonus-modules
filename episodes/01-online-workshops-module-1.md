@@ -98,17 +98,10 @@ the workshop, we would like to do what we can to address them. Please ask -- and
 under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add 
 your email address if you would like us to follow up!
 
-> ## Trainers' Note
->
-> Be sure the person who is actively teaching has host privileges before beginning this activity. 
-> Check the "Optimize Screen Share for Video Clip" box in the sharing window and share Desktop to display zoom features.
->
-{: .discussion}
-
 
 ### Host Powers on Zoom 
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your 
-introductory email to "Claim Host". Below is a screenshot, as the host of your current session will be unable to display this during demonstration:
+introductory email to "Claim Host". The button looks like this:
 
 ![Claim Host]({{ page.root }}/fig/claim_host.png)
 
