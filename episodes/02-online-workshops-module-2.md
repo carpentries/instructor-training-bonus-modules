@@ -100,13 +100,13 @@ In the next activity session, you will work with your group to tease apart the p
 
 > ## Activity Session 3 (20 min)
 > - Rotate group roles: moderator, time keeper, note-taker & sharer.
-> Take a deep breath, then spend a few minutes scanning the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
+> - Take a deep breath, then spend a few minutes scanning the [planning checklist in the Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop)
 > This checklist is long! BUT, never fear -- you are working as part of a team. Your team can handle it... if you communicate well!
 > Take a few moments to brainstorm the components of a solid team communication strategy. Consider the following questions:
-> - How will you communicate before the workshop?
-> - Identify one task that can be done asynchronously, and one task that likely requires a meeting
-> - How will you communicate during the workshop?
-> - What could go wrong with team communications, and how will you troubleshoot?
+>   - How will you communicate before the workshop?
+>   - Identify one task that can be done asynchronously, and one task that likely requires a meeting
+>   - How will you communicate during the workshop?
+>   - What could go wrong with team communications, and how will you troubleshoot?
 >
 > - Group 3 completes Activity 0
 {: .challenge}
