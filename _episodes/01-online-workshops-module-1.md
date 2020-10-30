@@ -140,7 +140,7 @@ host if you want or need to enforce muting. This role can also be performed by c
 >     - Receiving host status
 >     - Assigning co-host status (to another group member)
 >     - Muting/unmuting another group member
->     - Sending a participant to the waiting room (a group member who is not co-host) and re-admiting them
+>     - Sending a participant to the waiting room (a group member who is not co-host) and re-admitting them
 >     - Screensharing
 >     - Adjusting who can share their screen
 >     - Managing, messaging, and visiting breakouts (but not creating them)
