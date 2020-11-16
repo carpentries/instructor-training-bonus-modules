@@ -18,22 +18,34 @@ Registration for each event closes one week before that event. You may change or
 ## Events 
 
 * [December 8, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-8-2020-utc-tickets-129342261185): This event will run for 3 hours.
-    - 1:00 am to 4:00 am UTC 
+    - 1:00 am to 4:00 am UTC
+    - 9:00 am to 12:00 pm Australian Western Standard Time 
+    - 12:00 pm to 3:00 pm Australian Eastern Daylight Time
+    - 5:00 pm to 8:00 pm North American Pacific Standard Time
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201208T01&p1=%3A)*
 <br><br>
 
 * [December 10, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-10-2020-utc-tickets-128258307049): This event will run for 3 hours. **Event is full**
-    - 1:00 am to 4:00 am UTC 
+    - 7:00 pm to 11:00 pm UTC
+    - 11:00 am to 2:00 pm North American Pacific Standard Time
+    - 2:00 pm to 5:00 pm North American Eastern Standard Time
+    - 8:00 am to 11:00 am New Zealand Daylight Time
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201210T19&p1=1440)*
 <br><br>
 
 * [January 19, 2021](https://www.eventbrite.com/e/bonus-module-teaching-online-january-19-2021-utc-tickets-129342887057): This event will run for 3 hours.
     - 6:00 am to 9:00 am UTC
+    - 7:00 am to 10 am Central European Standard Time 
+    - 2:00 pm to 5:00 pm Australian Western Standard Time 
+    - 5:00 pm to 8:00 pm Australian Eastern Daylight Time
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210119T06&p1=1440)*
 <br><br>
 
 * [January 21, 2021](https://www.eventbrite.com/e/bonus-module-teaching-online-january-21-2021-utc-tickets-129343567091): This event will run for 3 hours.
     - 6:00 am to 9:00 am UTC
+    - 7:00 am to 10 am Central European Standard Time 
+    - 2:00 pm to 5:00 pm Australian Western Standard Time 
+    - 5:00 pm to 8:00 pm Australian Eastern Daylight Time
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210121T06)*
 <br><br>
 
