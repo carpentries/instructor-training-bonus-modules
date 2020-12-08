@@ -4,20 +4,29 @@ title: "Bonus Module Calendar"
 ---
 
 # The Carpentries Bonus Module Calendar: 2020-2021
+Introducing The Carpentries first Bonus Module: Teaching Online
 
-Certified Carpentries Instructors can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.  
+Are you planning to teach an online Carpentries workshop? Join us for our new Online Teaching Bonus Module for certified Carpentries Instructors! In this **hands-on, interactive 3-hour workshop**, you will have an opportunity to:
+- Use Zoom host and co-host features to create breakouts, screen share, manage muting and more.
+- Create and discuss plans to engage with learners during a workshop.
+- Write and rehearse an introduction to the logistics of your workshop that prioritizes creating on optimal learner experience and reducing barriers to participation. 
+- Propose communications strategies for your instructional team.
+
+This session complements but does not replace our Recommendations for Teaching Carpentries Workshops Online.
+
+***Demand for these workshops has been high and space is limited. Please only register if you plan on attending.*** 
+
+Learn more about this workshop and what to expect here: [Online Teaching Bonus Module Curriculum] (https://carpentries-incubator.github.io/instructor-training-bonus-modules/)
+
+Certified Carpentries Instructors can register for events listed below by clicking on the link for that event and completing the registration through Eventbrite.
 
 All training times are listed in UTC. A link is provided next to each event that will convert the start time to your local time zone.
 
-Read more about our Bonus Modules [here](https://carpentries-incubator.github.io/instructor-training-bonus-modules/).
-
-The class will be hands-on and interactive. 
-
-Registration for each event closes one week before that event. You may change or cancel your registration up to one week before the event. Cancelations less than one week in advance and no-shows may result in forfeiting your seat.  We do make exceptions to this policy in limited circumstances (e.g. illness), so please do reach out to us at [team@carpentries.org](mailto:team@carpentries.org) if there was an extenuating circumstance and we will be able to make alternative arrangements for you to join another event.
+This workshop will be hands-on and interactive.
 
 ## Events 
 
-* [December 8, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-8-2020-utc-tickets-129342261185): This event will run for 3 hours.
+* [December 8, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-8-2020-utc-tickets-129342261185): This event will run for 3 hours. **Event is Closed**
     - 1:00 am to 4:00 am UTC
     - 9:00 am to 12:00 pm Australian Western Standard Time 
     - 12:00 pm to 3:00 pm Australian Eastern Daylight Time
@@ -25,7 +34,7 @@ Registration for each event closes one week before that event. You may change or
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201208T01&p1=%3A)*
 <br><br>
 
-* [December 10, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-10-2020-utc-tickets-128258307049): This event will run for 3 hours. **Event is full**
+* [December 10, 2020](https://www.eventbrite.com/e/bonus-module-teaching-online-december-10-2020-utc-tickets-128258307049): This event will run for 3 hours. **Event is Closed**
     - 7:00 pm to 11:00 pm UTC
     - 11:00 am to 2:00 pm North American Pacific Standard Time
     - 2:00 pm to 5:00 pm North American Eastern Standard Time
