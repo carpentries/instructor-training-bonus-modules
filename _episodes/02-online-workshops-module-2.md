@@ -130,7 +130,7 @@ as much as possible. This leaves them more prepared to continue learning after t
 installation problems can be a tremendous challenge even at an in-person event. 
 
 In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally
-unsolvable. Therefore, The Carpentries now provides cloud instances for each curriculum, pre-loaded with all required software and data.
+unsolvable. Therefore, The Carpentries now provides [cloud instances for each curriculum](https://github.com/carpentries/scaffolds), pre-loaded with all required software and data.
 These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
 
 There are two main types of cloud instances to be used for Carpentries workshops, each appropriate for different lessons:
