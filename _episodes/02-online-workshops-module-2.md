@@ -124,44 +124,46 @@ Resources:
 > - Group 4 completes Activity 0
 {: .challenge}
 
-## A Few Notes on Cloud Instances (time permitting)
-At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
-as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
-installation problems can be a tremendous challenge even at an in-person event. 
-
-In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally
-unsolvable. Therefore, The Carpentries now provides [cloud instances for each curriculum](https://github.com/carpentries/scaffolds), pre-loaded with all required software and data.
-These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
-
-There are two main types of cloud instances to be used for Carpentries workshops, each appropriate for different lessons:
-
-- **RStudio Cloud**
-    - R-based lessons
-    - Git lessons
-- **MyBinder**
-    - Python-based lessons
-    - Shell lessons (in the absence of R or Git)
-
-RStudio Cloud
-- Requires sign-in
-- Starts up quickly
-- Identical interface to RStudio
-- Saves changes to the learner's own account
-- Does not include nano text editor (must use RStudio text editor)
-
-MyBinder
-- Does not require sign-in
-- Can be slow to load if not used in previous 12 hours
-- Identical interface to Jupyter Hub & Jupyter Lab
-- Does not save to the cloud (must save notebooks and modified data to desktop and re-upload)
-- Session stops after 10 minutes inactivity
-- Non-private session means that login information should not be used. **Do not connect to GitHub from MyBinder.**
-- Has nano text editor installed
-
-If you register your Carpentries workshop with us, you will receive links to backup solutions for your event in a pre-workshop email sent by our workshop coordinators. This email will also
-include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
-recommend that you **only share this information with those learners who have not successfully completed installation on their own
-computer once the workshop has begun.**
+> ## A Few Notes on Cloud Instances (time permitting)
+> At Carpentries workshops, we want learners to [use their own machines](https://carpentries.github.io/instructor-training/18-management/#learners-use-their-own-machines) 
+> as much as possible. This leaves them more prepared to continue learning after the workshops.  However, troubleshooting software 
+> installation problems can be a tremendous challenge even at an in-person event. 
+>
+> In online workshops, the inability to fully view or interact directly with a learner's machine can make difficult problems functionally
+> unsolvable. Therefore, The Carpentries now provides [cloud instances for each curriculum](https://github.com/carpentries/scaffolds), pre-loaded with all required software and data.
+> These are intended to function as **backups** for learners who are experiencing significant installation difficulties. 
+>
+> There are two main types of cloud instances to be used for Carpentries workshops, each appropriate for different lessons:
+>
+> - **RStudio Cloud**
+>    - R-based lessons
+>    - Git lessons
+> - **MyBinder**
+>    - Python-based lessons
+>    - Shell lessons (in the absence of R or Git)
+>
+> RStudio Cloud
+> - Requires sign-in
+> - Starts up quickly
+> - Identical interface to RStudio
+> - Saves changes to the learner's own account
+> - Does not include nano text editor (must use RStudio text editor)
+> 
+> MyBinder
+> - Does not require sign-in
+> - Can be slow to load if not used in previous 12 hours
+> - Identical interface to Jupyter Hub & Jupyter Lab
+> - Does not save to the cloud (must save notebooks and modified data to desktop and re-upload)
+> - Session stops after 10 minutes inactivity
+> - Non-private session means that login information should not be used. **Do not connect to GitHub from MyBinder.**
+> - Has nano text editor installed
+> 
+> If you register your Carpentries workshop with us, you will receive links to backup solutions for your event in a pre-workshop email sent by our workshop coordinators. This email will also
+> include information about the caveats discussed above and a link to detailed instructions for learners, including screenshots. We
+> recommend that you **only share this information with those learners who have not successfully completed installation on their own
+> computer once the workshop has begun.**
+>
+{: .callout}
 
 ## Wrap-up
  We are here to support your work! If you have questions about organizing your online workshop, contact team@carpentries.org.
