@@ -28,7 +28,7 @@ keypoints:
 > The introductory procedures for this workshop should present an ideal model to attendees. This means paying attention to *all* the details, even though some 
 > may feel less necessary for a short and small event of this kind. Later activities can then reference practices displayed here.
 > 
-> *Hello! My name is [ name ] and I will be your Discussion Lead for for today. As a Carpentries event, this workshop is covered by The Carpentries Code of Conduct. That 
+> *Hello! My name is [ name ] and I will be your Discussion Lead for today. As a Carpentries event, this workshop is covered by The Carpentries Code of Conduct. That 
 > means we will all bring our best selves to support each other in preparing to teach online here today. If you have any concerns you will find links for reporting in the Etherpad.
 >
 > Before we get started I want to be sure that we all have a plan should anyone lose their  
