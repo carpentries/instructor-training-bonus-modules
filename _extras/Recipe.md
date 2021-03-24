@@ -5,7 +5,7 @@ title: "Online Workshop Recipe"
 
 # A Recipe for an Online Carpentries Workshop
 
-In the past year+ of teaching online, our community has learned many things. Our initial online training recommendations recognized that we were in uncharted territory for Carpentries workshops! In consulting with community members, we heard many different narratives and suggestions. Rather than creating a single 'recipe,' we chose to distill that advice into 'things to think about', giving Instructors space to engineer their own solutions to the challenges presented by teaching online.
+In the past year+ of teaching online, our community has learned many things. Our initial [online training recommendations](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop) recognized that we were in uncharted territory for Carpentries workshops! In consulting with community members, we heard many different narratives and suggestions. Rather than creating a single 'recipe,' we chose to distill that advice into 'things to think about', giving Instructors space to engineer their own solutions to the challenges presented by teaching online.
 
 We continue to be excited to learn from the innovations of our Instructor community! However, at this point we have also developed a better idea about the specific advantages and disadvantages of different practices. For those who do not wish to 'reinvent the wheel' but prefer to start with a recommended model, we offer an example structure for an online workshop that we expect to function well.
 
@@ -24,7 +24,7 @@ Note that these recommendations are based characteristics of Zoom, Etherpad, and
     * **Meeting 1 (well in advance)**: Establish workshop roles, who teaches what, delegate documentation & communications setup (below), plan asynchronous preparation.
     * **Meeting 2 (closer to the date)**: Review workshop mechanics, backup planning, learner communications, assessment, and feedback review. Agree on content to cut when time runs short. Test video conferencing features.
     
-For more detailed preparation goals, see our checklist for online workshop preparation.
+For more detailed preparation goals, see our [checklist for online workshop preparation](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop).
 ### Back-channel communications
 * **Create a channel** or private conversation thread on The Carpentries Slack workspace (or other preferred tool). 
 * **Use your communication channel** to communicate about preparations. This will allow everyone on your instructional team to become familiar with the tool as well as improve your preparations.
@@ -36,12 +36,16 @@ For more detailed preparation goals, see our checklist for online workshop prepa
     * How to ask questions
     * Other instructions related to workshop mechanics, including recommended window arrangement
     * A link to The Carpentries Code of Conduct
-* Add a link to your Etherpad to your workshop website.
+* Add a link to your Etherpad to your **workshop website**.
+* For a self-organised workshop, be sure to submit your [workshop request form](https://amy.carpentries.org/forms/self-organised/).
+* **Email your learners** with everything they need to know in advance of the workshop. 
+    * Our [template for in-person trainings](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#email-learners-before-workshop) may be useful. Much of this info may already be on your Etherpad, so you can be selective about information that needs duplicating.
 ### Preparing for Adjustments
 * **Plan to cut content.** Online workshops often run more slowly than they do in-person; sometimes much more slowly. Decisions to cut back should be intentional and collaborative.
     * Remember that skipping steps in a workflow can create problems with dependencies later on.
 * **Agree on your priorities.** Discussing key objectives and broader goals with your instructional team in advance will help everyone navigate difficult trade-offs when time becomes an issue during a workshop.
 * **Have a backup** for all roles and documents. Technical failures come in all shapes and sizes, and life can still happen, too!
+* **Review your pre-workshop surveys** using the links provided in your email from our workshop administrators. Knowing your audience will help you adjust appropriately to their needs!
 ## 2. Workshop Mechanics
 * **Assign a "Zoom DJ"** to assume the "host" role in the meeting. A Zoom DJ will manage breakouts, waiting rooms, muting, and troubleshooting as needed. This role is typically played by a Supporting Instructor; if/when they choose to teach, plan to hand off this role to another Instructor.
 * **Customize profile names** to clearly indicate instructors and helpers. For example, a helper named Ada might change their profile to read "Helper: Ada (she/her)"
