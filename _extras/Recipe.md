@@ -3,7 +3,7 @@ layout: page
 title: "Online Workshop Recipe"
 ---
 
-# A Recipe for an Online Workshop
+# A Recipe for an Online Carpentries Workshop
 
 In the past year+ of teaching online, our community has learned many things. Our initial online training recommendations recognized that we were in uncharted territory for Carpentries workshops! In consulting with community members, we heard many different narratives and suggestions. Rather than creating a single 'recipe,' we chose to distill that advice into 'things to think about', giving Instructors space to engineer their own solutions to the challenges presented by teaching online.
 
