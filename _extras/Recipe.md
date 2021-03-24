@@ -64,6 +64,7 @@ For more detailed preparation goals, see our checklist for online workshop prepa
     * Prepare a polling tool or Google form with a few questions in advance.
     * Use virtual sticky notes to check pacing - 'green check' for 'fine/too slow' and 'red x' for too fast.
     * Use 'virtual minute cards' for +/- feedback or to ask learners to share 'one thing you have learned'/'one question you still have' at break points
-* **Summative assessment is also especially valuable** in the form of The Carpentries post-assessment survey provides vital information to help us and you to understand the online workshop experience on the whole. 
+* **Summative assessment is also especially valuable**. The Carpentries post-assessment survey provides vital information to help us and you to understand the online workshop experience on the whole. 
     * Remember to leave time for surveys (and a strong send-off!) at the end of your workshop, even when this means making some cuts at the end.
+    * Please take a moment to report on your own experiences with our Instructor and Helper survey for online workshops!
 
