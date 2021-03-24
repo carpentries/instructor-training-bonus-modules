@@ -11,8 +11,8 @@ We continue to be excited to learn from the innovations of our Instructor commun
 
 Note that these recommendations are based characteristics of Zoom, Etherpad, and Slack platforms and may require minor modifications to function on other platforms.
 
-### 1. Advance preparation
-#### Workshop roles
+## 1. Advance preparation
+### Workshop roles
 * **Instructors** (at least 2): take the lead on preparing the curriculum and leading instruction. 
 * **Supporting Instructors** (at least 1): take the lead on preparing the workshop mechanics, coordinating with helpers, and ensuring that everything is working smoothly. They may take on limited instruction and/or an instructional backup role if they choose. They play the role of "Zoom DJ" (below) whenever they are not teaching.
 #### Schedule
