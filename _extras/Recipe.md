@@ -35,7 +35,7 @@ For more detailed preparation goals, see our [checklist for online workshop prep
     * What to do in the event of a connection failure
     * How to ask questions
     * Other instructions related to workshop mechanics, including recommended window arrangement
-    * A link to The Carpentries Code of Conduct
+    * Links to The Carpentries Code of Conduct as well as your workshop website
 * Add a link to your Etherpad to your **workshop website**.
 * For a self-organised workshop, be sure to submit your [workshop request form](https://amy.carpentries.org/forms/self-organised/).
 * **Email your learners** with everything they need to know in advance of the workshop. 
@@ -46,6 +46,8 @@ For more detailed preparation goals, see our [checklist for online workshop prep
 * **Agree on your priorities.** Discussing key objectives and broader goals with your instructional team in advance will help everyone navigate difficult trade-offs when time becomes an issue during a workshop.
 * **Have a backup** for all roles and documents. Technical failures come in all shapes and sizes, and life can still happen, too!
 * **Review your pre-workshop surveys** using the links provided in your email from our workshop administrators. Knowing your audience will help you adjust appropriately to their needs!
+### Update your Software
+* Especially for Zoom, you will want to be using the most recent version and the same version as everyone else. Remind your learners to update as well!
 ## 2. Workshop Mechanics
 * **Assign a "Zoom DJ"** to assume the "host" role in the meeting. A Zoom DJ will manage breakouts, waiting rooms, muting, and troubleshooting as needed. This role is typically played by a Supporting Instructor; if/when they choose to teach, plan to hand off this role to another Instructor.
 * **Customize profile names** to clearly indicate instructors and helpers. For example, a helper named Ada might change their profile to read "Helper: Ada (she/her)"
