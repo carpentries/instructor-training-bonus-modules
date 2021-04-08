@@ -119,7 +119,10 @@ Resources:
 
 ## Group Catch-up
 > ## Activity Session 4 (15 min)
-> - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0.
+> - Groups 1-3 should discuss or complete the activity they missed while doing Activity 0. 
+> When you finish, take a moment to think through what you have learned in this session. What questions
+> or concerns do you still have about online training? We may not have time to address them all, but take a moment to add 
+> notes to the etherpad.
 >
 > - Group 4 completes Activity 0
 {: .challenge}
@@ -166,7 +169,22 @@ Resources:
 {: .callout}
 
 ## Wrap-up
- We are here to support your work! If you have questions about organizing your online workshop, contact team@carpentries.org.
+The Carpentries community is here to support your work! You may still have questions, and you will almost certainly develop more as you set 
+about your preparations. What can you do with those questions?
+
+Consider attending a [Community Discussion](https://pad.carpentries.org/community-discussions)! This is a great opportunity to discuss your thoughts and 
+questions with experienced Carpentries Instructors as well as new trainees eager to learn from your conversation. This is also a great way to share your 
+experiences and engage in retrospective analysis after your workshop is complete.
+ 
+If you have questions about organizing your online workshop, you can also contact team@carpentries.org for assistance.
+
+After your workshop, please also consider whether our Recommendations and the content of this Bonus module have served you well. If you would like to suggest
+changes to either, please file an Issue in the [GitHub repository for this lesson](https://github.com/carpentries/instructor-training-bonus-modules/issues), or 
+email your suggestions to team@carpentries.org.
+
+We would also really like to have your feedback now! If this module has helped you to feel more prepared, or if you think there are things we could improve, we 
+would really appreciate hearing about this in our post-workshop survey. Please take a moment to share your feedback with us so that we can continue to 
+improve our program!
 
 {% include links.md %}
 
