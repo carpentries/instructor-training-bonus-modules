@@ -59,20 +59,20 @@ keypoints:
 {: .challenge}
 
 ## Introduction (5 min)
-If you have been following The Carpentries for a while, you may have observed that online workshops have not only been absent from our recommendations; they have been actively discouraged. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
+Prior to 2020, The Carpentries discouraged online workshops. This is because a number of Carpentries teaching practices do not naturally transfer to a video conferencing platform. Among the challenges:
 
-* A video conferencing window occupies **space on a learner’s computer**. Add a coding window and a collaborative document on a small laptop screen, and you have got a challenge unto itself – independent of the lesson's content.
-* Learners’ **faces are hidden**, especially during screen sharing, which makes it much harder for the instructional team to evaluate how learners are handling the material by observing facial expressions.
+* A video conferencing window occupies **space on a learner’s computer**. 
+* Learners’ **faces are hidden** which makes it much harder for the instructional team to evaluate how learners are handling the material by observing facial expressions.
 * **No sticky notes!** And asking learners to raise their hands in the chat can be confusing.
-* **Side conversations** present a challenge. In a video conference it’s not possible to talk quietly in the back of the room while instruction continues. Conversations between helpers and learners as well as those within the instructional team need to be routed elsewhere.
+* **Side conversations** present a challenge. In a video conference it’s not possible to talk quietly in the back of the room while instruction continues. 
 * **Helpers can’t “drive.”** As much as we recommend against typing on a learner’s machine, this is sometimes necessary for complex problems. Remote control of learner machines is not straightforward.
 * **Socialization** doesn’t ‘just happen’. Learners can’t chat with a neighbor or socialise around the snack table during a break.
 
 We will talk about each of these challenges in the course of this workshop. 
 
-In the first part of the workshop, we will talk about technology. With the recent global lockdowns, many have had an opportunity to become more familiar with video conferencing and remote collaboration platforms. However, the ways in which these work well or present challenges in the context of a workshop can still be surprising! You will get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need -- in addition to the content of your workshop!
+In the first part of the workshop, we will talk about technology. You will get some practice using the tools we use, some opportunities to discuss their merits and alternatives, and some time to think through what kind of onboarding your learners will need to participate successfully!
 
-After the break, we will come back to talk about *teaching*. If you are taking this workshop, you have previously taken The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/). Everything you learned there still applies! But how? We will talk about the mechanics of an online workshop -- how technology and teamwork can create a positive learning environment in your workshop. We will brainstorm challenges and demotivating scenarios to avoid. You will have an opportunity to practice introducing your workshop and participate in feedback specific to the online  setting, and will take time to start planning your within-team coordination efforts to get your workshop off to the best possible start.
+After the break, we will come back to talk about *teaching*. Everything you learned in The Carpentries [Instructor Training workshop](https://carpentries.github.io/instructor-training/) still applies, but how? We will talk about the mechanics of an online workshop -- how technology and teamwork can create a positive learning environment in your workshop. 
 
 Please note that this workshop is intended to supplement, but not to replace The Carpentries [Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/). Be sure to read those recommendations carefully, and check for useful updates each time you teach!
 
@@ -94,7 +94,7 @@ The video conferencing platform used by The Carpentries is Zoom. However, your h
 
 We will now spend a little time discussing and demonstrating the host role on Zoom. We will also have an activity that you will rotate through in groups 
 throughout the workshop, where you will have an opportunity to test the host controls. However, if you have questions about other platforms at any point during 
-the workshop, we would like to do what we can to address them. Please ask -- and answer, if you can! -- any questions specific to your platform in the space 
+the workshop, please ask -- and answer, if you can! -- any questions specific to your platform in the space 
 under your platform name on the Etherpad. Questions that cannot be addressed during the workshop will be directed to our infrastructure team, so be sure to add 
 your email address if you would like us to follow up!
 
@@ -109,14 +109,14 @@ Once host has been claimed, you can only become the host when a current host pas
 
 As host, you can:
 
-- **Pass host or assign a co-host.** Co-hosts have some (but not all) of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
+- **Pass host or assign a co-host.** Co-hosts have some of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
 
 - **Enable and move participants to a waiting room.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can 
-communicate with people in waiting rooms by issuing announcements, but cannot communicate directly with individuals in the waiting room. People in the waiting 
-room can not message the host. Take care to press "Admit" if you want to let someone back in -- "Remove" can sound like a good idea (remove them from the waiting room? sure!) but will kick the person out of the meeting, in some cases permanently. (They should be able to rejoin in Carpentries rooms.) 
+communicate with people in waiting rooms by issuing announcements. People in the waiting 
+room can not message the host. Take care to press "Admit" if you want to let someone back in -- "Remove" can sound like a good idea but will kick the person out of the meeting, in some cases permanently. 
 
-- **Mute (but not unmute) participants.** In Carpentries rooms, participants are allowed to unmute themselves by default, but this setting can be changed by the 
-host if you want or need to enforce muting. This role can also be performed by co-hosts. Rather than unmuting, Zoom will send a request to the participant to unmute.
+- **Mute participants or request they unumute themselves.** In Carpentries rooms, participants are allowed to unmute themselves by default, but this setting can be changed by the 
+host or co-host if you want or need to enforce muting. 
 
 - **Turn off (but not on) participants' video.** Rather than turning the video back on, Zoom will send a request to the participant to activate their video.
 
@@ -158,9 +158,7 @@ Since this activity will be carried out during other activities, be aware that p
 
 ## Interacting with your Learners Online (40 min)
 
-At all Carpentries workshops, we take the quality of our communications seriously. We communicate to inspire, sharing our enthusiasm while being mindful of demotivating language and systemic bias. We communicate to re-frame errors as opportunities for learning. And of course we communicate to teach, focusing our learners on precisely what they need to know, and avoiding extraneous cognitive load.  
-
-At an in-person workshop, we communicate with words, with sticky-notes, with smiles and gestures and glances and reassuring presence. Words may be shouted from the front of the room or whispered over the shoulder, by a neighbor, or in the hall during breaks.
+At all Carpentries workshops, we take the quality of our communications seriously. We communicate to inspire, to re-frame errors as opportunities for learning, and, of course, to teach. At an in-person workshop, we communicate with words, with sticky-notes, with smiles and gestures and glances and reassuring presence. 
 
 Online, most of these communication routes need a new home. In a video conference, only one person can speak at a time. Want to raise your hand? Writing "hand" in the chat as we did above is not the only route, nor is it normally the first thing new users will try. You might:
 - wave at the camera (if video is on)
@@ -172,7 +170,7 @@ Online, most of these communication routes need a new home. In a video conferenc
 
 Then, there is the problem of side conversations. In a video conference, unless you create breakout rooms, all vocal communication is shared with the entire workshop. One natural outlet for these conversations is the chat... but if that is your only outlet, social clutter can make it unusable.
 
-These are two examples of challenges presented by the video conferencing environment that might send a workshop spinning into dysfunction. But, we have all had some practice with video meetings by now, and unless you are exceptionally lucky you have had a few experiences that might contribute to your ideas about what *not* to do.
+We have all had some practice with video meetings by now, and unless you are exceptionally lucky you have had a few experiences that might contribute to your ideas about what *not* to do.
 
 During this activity, you will begin by spending about 5 minutes brainstorming with your group to think through some worst-case scenarios for communications between learners and the instructional team, or within the instructional team. 
 
