@@ -109,7 +109,7 @@ Once host has been claimed, you can only become the host when a current host pas
 
 As host, you can:
 
-- **Pass host or assign a co-host.** Co-hosts have some of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
+- **Pass host or assign a co-host.** [Co-hosts](https://support.zoom.us/hc/en-us/articles/201362603-Host-and-co-host-controls-in-a-meeting) have some of the same privileges as hosts. We recommend that the person teaching use a co-host role, and leaving host powers for someone who has their full attention on managing the meeting.
 
 - **Enable and move participants to a waiting room.** This allows you to admit people individually and adds a layer of protection against "zoombombers." The host can 
 communicate with people in waiting rooms by issuing announcements. People in the waiting 
@@ -120,7 +120,7 @@ host or co-host if you want or need to enforce muting.
 
 - **Turn off (but not on) participants' video.** Rather than turning the video back on, Zoom will send a request to the participant to activate their video.
 
-- **Create and manage breakout rooms.** These are useful for socialisation and group activities. Only the host can create and manage breakout rooms. Co-hosts can move between breakout rooms after entering an assigned room. We suggest creating an extra room or two just in case. 
+- **Create and manage breakout rooms.** [Breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms) are useful for socialisation and group activities. We suggest creating an extra room or two just in case. 
 
 - **Control screen sharing.** In Carpentries rooms, only the host can screen share by default.  However, the host can change the screen sharing permissions to allow co-hosts and/or participants to screenshare. 
 
@@ -128,7 +128,7 @@ host or co-host if you want or need to enforce muting.
 
 Zoom updates features frequently, so it is important to expect the unexpected! Making sure that everyone is running the most up-to-date version of Zoom can help,
 but invariably a percentage of attendees will not remember to update. In addition, you may also find that features you were planning to use have changed with
-new updates.  
+new updates. When in doubt, check [the release notes for the latest version](https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes) (or three).
 
 
 > ## Activity Session 0 (to be carried out in parallel with other activities)
@@ -198,7 +198,9 @@ Additional resources:
 >
 > There are many ways to keep time during activities, but here are two suggestions that allow everyone to keep track of how much time is left: 
 >
-> - **Zoom Countdown Timer:** Zoom has an option to set a countdown timer for breakout rooms. After creating the breakout rooms, click Options to view additional breakout rooms options. Check Set Countdown timer: If this option is checked, the participants will be given a countdown of how much time they have left before being returned to the main room. One downside to this method is that, when the countdown hits 0, the  breakout rooms automatically close meaning you won't be able to change your mind or add more time. 
+> - **Zoom Countdown Timer:** Zoom has an option to set a countdown timer for breakout rooms. After creating the breakout rooms, click Options to view additional 
+> breakout rooms options. Check Set Countdown timer: If this option is checked, the participants will be given a countdown of how much time they have left before 
+> being returned to the main room. A box can be checked to give you the option of keeping rooms open; otherwise they will automatically close when the timer runs out.
 >
 > - **[Cuckoo Timer](https://cuckoo.team/):**  Cuckoo timer is a website where you can set a timer and share it with other people via a link. 
 {: .discussion}
