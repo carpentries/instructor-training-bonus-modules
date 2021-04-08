@@ -21,10 +21,9 @@ In Part 1 of this lesson, we talked about the importance of the right tool at th
 But, there is more to communication than choosing a platform! 
 
 ### The Learner Experience: Challenges and Opportunities (5 min)
-Online learners are most often joining your workshop from home, just as you are likely joining us from your home now, and will very likely be teaching or helping from home! 
+Online learners are most often joining your workshop from home and will very likely be teaching or helping from home! 
 
-'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop in new and different 
-ways. Some effects can be positive! But where features of a learner's environment create barriers, a little advance planning can go a long way. Consider the home 
+'Home' can look very different to different people. Sometimes, features of a home environment can impact participation in an online workshop. Some effects can be positive, but some can create barriers as well! Consider the home 
 enviroment and equipment along with other potential accessibility issues, and plan accommodations wherever possible.
 
 > ## Breaking Down the Learner Experience
@@ -53,8 +52,7 @@ enviroment and equipment along with other potential accessibility issues, and pl
 {: .discussion}
 
 ### Getting Off to a Good Start (5 min)
-Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. You may have the world's most perfect 
-plan for every possible contingency, but if your learners don't know how they fit in to that vision, that in itself is a barrier to success.
+Creating a welcoming environment for your learners starts with teaching them how they can participate in your workshop. 
 
 At the beginning of this workshop, your Trainer took several steps to teach you how to participate in *this* workshop. What kinds of things did they do? What else could they have included?
 
@@ -82,10 +80,9 @@ Take a few moments to report back on your experience. What did you learn? What w
 
 ## Planning Planning Planning (30 minutes)
 At this point, you have done quite a bit of work towards planning your workshop. We hope that alone makes your time spent here worthwhile! However, a functioning 
-workshop demands **teamwork**, and this is especially true in an online setting. For in-person workshops, team coordination is ideal, but a workshop can squeak by on 
-a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page/communication platform or the workshop is 
-really at risk. This means that, before your workshop, you will need to bring everyone together to plan, to share knowledge about your platforms of choice, and 
-to distribute roles with regard to communications management.
+workshop demands **teamwork**, and this is especially true in an online setting. For in-person workshops, a workshop can squeak by on 
+a rough distribution of teaching duties with a quick helper orientation. Online, everyone needs to be on the same page or the workshop is 
+really at risk. This means that, before your workshop, you will need to bring everyone together.
 
 What makes a good meeting? 
 > ## Elements of a good meeting
