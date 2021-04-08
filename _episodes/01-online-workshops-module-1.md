@@ -138,7 +138,7 @@ new updates. When in doubt, check [the release notes for the latest version](htt
 >     - Assigning co-host status (to another group member)
 >     - Muting/unmuting another group member
 >     - Sending a participant to the waiting room (a group member who is not co-host) and re-admitting them
->     - Screensharing
+>     - Screensharing (where did all the buttons go?)
 >     - Adjusting who can share their screen
 >     - Managing, messaging, and visiting breakouts (but not creating them)
 >     - Closing the breakout rooms (if you are the last group member to act as host)
