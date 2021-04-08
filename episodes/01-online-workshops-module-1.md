@@ -99,7 +99,7 @@ under your platform name on the Etherpad. Questions that cannot be addressed dur
 your email address if you would like us to follow up!
 
 
-### Host Powers on Zoom 
+### Hosting on Zoom
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your 
 introductory email to "Claim Host". The button looks like this:
 
@@ -125,6 +125,10 @@ host or co-host if you want or need to enforce muting.
 - **Control screen sharing.** In Carpentries rooms, only the host can screen share by default.  However, the host can change the screen sharing permissions to allow co-hosts and/or participants to screenshare. 
 
 - **End meeting for all.** If you have host powers and depart the meeting, take care not to take everyone else with you if the workshop is not finished! If you do not end the meeting, Zoom will prompt you to pass off host to another participant before you leave.
+
+Zoom updates features frequently, so it is important to expect the unexpected! Making sure that everyone is running the most up-to-date version of Zoom can help,
+but invariably a percentage of attendees will not remember to update. In addition, you may also find that features you were planning to use have changed with
+new updates.  
 
 
 > ## Activity Session 0 (to be carried out in parallel with other activities)
