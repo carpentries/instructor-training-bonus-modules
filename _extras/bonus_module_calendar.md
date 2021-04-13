@@ -25,7 +25,7 @@ This workshop will be hands-on and interactive.
 
 ## Events 
 
-* April 20, 2021 - 11 am North American Pacific Daylight Time: *Registration Closed* This event will run for 3 hours.
+* [April 20, 2021 - 11 am North American Pacific Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-apr-20-north-american-pacific-daylight-time-tickets-147895841443): This event will run for 3 hours.
     - 2 pm - North American Eastern Daylight Time
     - 6 pm - Central European Summer Time
     - 7 pm - Western European Summer Time
