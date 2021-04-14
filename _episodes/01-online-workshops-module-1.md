@@ -183,12 +183,12 @@ During this activity, you will begin by spending about 5 minutes brainstorming w
 >     - Introduce yourselves!
 >     - Assign group roles: moderator, time keeper, note-taker. Also, designate one person to share a few key points or questions with the class when you return. Plan to rotate these roles as much as possible/practical as we move through the activities today.
 >     - Consider one of the following scenarios:
->       - Instructor is talking and someone (or multiple people) have a question, but the Instructor is not paying attention to the conference chat.
->       - A learner asks for help using the Etherpad chat, when all the helpers are watching the Zoom chat. They are stuck for a long time without help.
->       - A group of enthusiastic learners uses the Zoom chat for a side conversation about favorite related tools. A request for help gets lost in the noise.
->       - A helper engages with a learner and encounters a problem they don't know how to solve. Now the helper needs help and isn't sure how to proceed.
->       - You have asked learners to raise hands by writing "hand" in the chat, but one person is waving at the screen, another is using the 'raise hand' button, and neither is being called on by the Instructor.
->       - Learners have entered breakout rooms to complete an activity. Once they are there, they realize they do not understand the prompt, but do not know how
+>       - **Total Eclipse of the Chat:** Instructor is talking and someone (or multiple people) have a question, but the Instructor is not paying attention to the conference chat.
+>       - **Which Chat?:** A learner asks for help using the Etherpad chat, when all the helpers are watching the Zoom chat. They are stuck for a long time without help.
+>       - **Banter Blast:** A group of enthusiastic learners uses the Zoom chat for a side conversation about favorite related tools. A request for help gets lost in the noise.
+>       - **Help the Helper:** A helper engages with a learner and encounters a problem they don't know how to solve. Now the helper needs help and isn't sure how to proceed.
+>       - **Which Hand?:** You have asked learners to raise hands by writing "hand" in the chat, but one person is waving at the screen, another is using the 'raise hand' button, and neither is being called on by the Instructor.
+>       - **Breakout Amnesia:** Learners have entered breakout rooms to complete an activity. Once they are there, they realize they do not understand the prompt, but do not know how
 >       to ask for help.
 >     - Draft solutions or pre-emptive plans to create a best-case scenario for communications during your workshop. Write some notes in the Etherpad. If you 
 >     have time remaining, consider a second scenario or invent your own.
