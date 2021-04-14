@@ -5,7 +5,7 @@ title: "Online Workshop Recipe"
 
 # A Recipe for an Online Carpentries Workshop
 
-In the past year+ of teaching online, our community has learned many things. Our initial [online training recommendations](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop) recognized that we were in uncharted territory for Carpentries workshops! In consulting with community members, we heard many different narratives and suggestions. Rather than creating a single 'recipe,' we chose to distill that advice into 'things to think about', giving Instructors space to engineer their own solutions to the challenges presented by teaching online.
+In the past year+ of teaching online, our community has learned many things. Our initial [online training recommendations](https://carpentries.org/online-workshop-recommendations/#planning-your-workshop) recognised that we were in uncharted territory for Carpentries workshops! In consulting with community members, we heard many different narratives and suggestions. Rather than creating a single 'recipe,' we chose to distill that advice into 'things to think about', giving Instructors space to engineer their own solutions to the challenges presented by teaching online.
 
 We continue to be excited to learn from the innovations of our Instructor community! However, at this point we have also developed a better idea about the specific advantages and disadvantages of different practices. For those who do not wish to 'reinvent the wheel' but prefer to start with a recommended model, we offer an example structure for an online workshop that we expect to function well.
 
@@ -30,10 +30,10 @@ For more detailed preparation goals, see our [checklist for online workshop prep
 * **Use your communication channel** to communicate about preparations. This will allow everyone on your instructional team to become familiar with the tool as well as improve your preparations.
 ### Documentation
 * **Create an Etherpad** or other collaborative document, and add all vital information to be included in your workshop introduction for learners who arrive late. This should include:
-    * Workshop schedule (including all breaks)
+    * Workshop schedule (including the times of all breaks)
     * Connection instructions
     * What to do in the event of a connection failure
-    * How to ask questions
+    * How learners can ask questions (e.g. Zoom chat, raise hand, etc.)
     * Other instructions related to workshop mechanics, including recommended window arrangement
     * Links to The Carpentries Code of Conduct as well as your workshop website
 * Add a link to your Etherpad to your **workshop website**.
