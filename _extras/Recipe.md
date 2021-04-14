@@ -9,7 +9,7 @@ In the past year+ of teaching online, our community has learned many things. Our
 
 We continue to be excited to learn from the innovations of our Instructor community! However, at this point we have also developed a better idea about the specific advantages and disadvantages of different practices. For those who do not wish to 'reinvent the wheel' but prefer to start with a recommended model, we offer an example structure for an online workshop that we expect to function well.
 
-Note that these recommendations are based characteristics of Zoom, Etherpad, and Slack platforms and may require minor modifications to function on other platforms.
+Note that these recommendations are based on the use of Zoom, Etherpad, and Slack platforms and may require minor modifications to function on other platforms.
 
 ## 1. Advance preparation
 ### Workshop roles
@@ -73,4 +73,3 @@ For more detailed preparation goals, see our [checklist for online workshop prep
 * **Summative assessment is also especially valuable**. The Carpentries post-assessment survey provides vital information to help us and you to understand the online workshop experience on the whole. 
     * Remember to leave time for surveys (and a strong send-off!) at the end of your workshop, even when this means making some cuts at the end.
     * Please take a moment to report on your own experiences with our Instructor and Helper survey for online workshops!
-
