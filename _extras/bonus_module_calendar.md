@@ -32,7 +32,7 @@ This workshop will be hands-on and interactive.
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210420T11&p1=137)*
 <br><br>
 
-* [April 27, 2021 - 9 am Australia Eastern Standard Time](https://www.eventbrite.com/e/bonus-module-teaching-online-april-27australia-eastern-standard-time-tickets-147843611221): This event will run for 3 hours.
+* April 27, 2021 - 9 am Australia Eastern Standard Time: *Registration Closed* This event will run for 3 hours.
     - 11 am - New Zealand Daylight Time
     - 4 pm - North American Pacific Daylight Time
     - 7 pm - North American Eastern Daylight Time
