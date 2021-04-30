@@ -47,7 +47,7 @@ This workshop will be hands-on and interactive.
 <br><br>
 
 * [May 14, 2021 - 9 am North American Eastern Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-may-14-north-american-eastern-daylight-time-tickets-147847785707): This event will run for 3 hours. 
-    - 10 am North American Pacific Daylight Time 
+    - 6 am North American Pacific Daylight Time 
     - 2 pm Western European Summer Time
     - 3 pm Central European Summer Time 
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T09&p1=179)*
