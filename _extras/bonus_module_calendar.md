@@ -39,14 +39,14 @@ This workshop will be hands-on and interactive.
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210427T09&p1=47)*
 <br><br>
 
-* [May 12, 2021 - 6 pm Western European Summer Time](https://www.eventbrite.com/e/bonus-module-teaching-online-may-12-western-european-time-tickets-147846355429): This event will run for 3 hours. 
+* May 12, 2021 - 6 pm Western European Summer Time: *Registration Closed* This event will run for 3 hours. 
     - 1 pm North American Eastern Daylight Time
     - 10 am North American Pacific Daylight Time 
     - 7 pm Central European Summer Time 
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210512T18&p1=133)*
 <br><br>
 
-* [May 14, 2021 - 9 am North American Eastern Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-may-14-north-american-eastern-daylight-time-tickets-147847785707): This event will run for 3 hours. 
+* May 14, 2021 - 9 am North American Eastern Daylight Time: *Registration Closed* This event will run for 3 hours. 
     - 6 am North American Pacific Daylight Time 
     - 2 pm Western European Summer Time
     - 3 pm Central European Summer Time 
