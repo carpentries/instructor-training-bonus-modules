@@ -53,7 +53,7 @@ This workshop will be hands-on and interactive.
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T09&p1=179)*
 <br><br>
 
-* [June 4, 2021 - 9 am Central European Summer Time](https://www.eventbrite.com/e/bonus-module-teaching-online-june-4-central-european-time-tickets-147846864953): This event will run for 3 hours.
+* June 4, 2021 - 9 am Central European Summer Time *Registration Closed* This event will run for 3 hours.
     - 8 am Western European Summer Time
     - 5 pm Australian Eastern Standard Time
     - 7 pm New Zealand Standard Time
