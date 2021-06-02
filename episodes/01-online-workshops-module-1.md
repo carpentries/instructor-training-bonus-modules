@@ -10,7 +10,7 @@ objectives:
 - "Create a plan to communicate with learners during a workshop."
 keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
-- "Communications avenues should be planned and taught for an online workshop to function smoothy."
+- "Communications avenues should be planned and taught for an online workshop to function smoothly."
 ---
 > ## Workshop Roles
 > This workshop in intended to be taught by two people. The Discussion Lead should be a Carpentries Instructor Trainer and the Zoom Lead may be a Trainer or Instructor.
