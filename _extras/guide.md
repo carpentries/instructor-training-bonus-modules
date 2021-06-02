@@ -3,7 +3,7 @@ title: "Instructor Notes"
 ---
 ## Outline from ITB Online Teaching Onboarding:
 
-Etherpad template: https://pad.carpentries.org/ITTB_online_template
+Etherpad template: [https://pad.carpentries.org/ITTB_online_template](https://pad.carpentries.org/ITTB_online_template)
 ### Challenges faced by Instructors
 - pacing: more important than ever to go slowly; also harder than ever because online moves slower
 - communication: feedback indicates that Instructors leave uncertain about whether they successfully engaged learners. Have to work harder to hear from learners online.
