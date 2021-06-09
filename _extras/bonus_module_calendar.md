@@ -67,9 +67,6 @@ This workshop will be hands-on and interactive.
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210617T13&p1=179)*
 <br><br>
 
-* [June 22 - 9 am Australian Eastern Standard Time](https://www.eventbrite.com/e/bonus-module-teaching-online-june-21-australian-eastern-standard-time-tickets-147845871983): This event will run for 3 hours.
-    - 11 am New Zealand Standard Time 
-    - 4 pm North American Pacific Daylight Time 
-    - 7 pm North American Eastern Daylight Time
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210622T09&p1=47)*
+* June 22 - 9 am Australian Eastern Standard Time *Event Cancelled*
+
 <br><br>
