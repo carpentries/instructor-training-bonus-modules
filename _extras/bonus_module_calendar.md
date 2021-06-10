@@ -60,7 +60,7 @@ This workshop will be hands-on and interactive.
     - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210604T09&p1=215)*
 <br><br>
 
-* [June 17, 2021 - 1 pm North American Eastern Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-jun-17-north-american-eastern-daylight-time-tickets-147848247087): This event will run for 3 hours.
+* June 17, 2021 - 1 pm North American Eastern Daylight Time *Registration Closed*
     - 10 am North American Pacific Time 
     - 6 pm Western European Summer Time 
     - 7 pm Central European Summer Time 
