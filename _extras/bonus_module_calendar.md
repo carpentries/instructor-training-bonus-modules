@@ -6,7 +6,7 @@ title: "Bonus Module Calendar"
 # The Carpentries Bonus Module Calendar: 2020-2021
 Introducing The Carpentries first Bonus Module: Teaching Online
 
-Are you planning to teach an online Carpentries workshop? Join us for our new Online Teaching Bonus Module for certified Carpentries Instructors! In this **hands-on, interactive 3-hour workshop**, you will have an opportunity to:
+Are you planning to teach an online Carpentries workshop? Join us for our new Online Teaching Bonus Module for certified Carpentries Instructors! In this **hands-on, interactive 3.5-hour workshop**, you will have an opportunity to:
 - Use Zoom host and co-host features to create breakouts, screen share, manage muting and more.
 - Create and discuss plans to engage with learners during a workshop.
 - Write and rehearse an introduction to the logistics of your workshop that prioritizes creating on optimal learner experience and reducing barriers to participation. 
@@ -23,50 +23,17 @@ Certified Carpentries Instructors can register for events listed below by clicki
 
 This workshop will be hands-on and interactive.
 
-## Events 
+## Events - More July - September 2021 Dates To Be Announced Soon! 
 
-* April 20, 2021 - 11 am North American Pacific Daylight Time: *Registration Closed* This event will run for 3 hours.
-    - 2 pm - North American Eastern Daylight Time
-    - 6 pm - Central European Summer Time
-    - 7 pm - Western European Summer Time
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210420T11&p1=137)*
-<br><br>
-
-* April 27, 2021 - 9 am Australia Eastern Standard Time: *Registration Closed* This event will run for 3 hours.
-    - 11 am - New Zealand Daylight Time
-    - 4 pm - North American Pacific Daylight Time
-    - 7 pm - North American Eastern Daylight Time
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210427T09&p1=47)*
-<br><br>
-
-* May 12, 2021 - 6 pm Western European Summer Time: *Registration Closed* This event will run for 3 hours. 
-    - 1 pm North American Eastern Daylight Time
-    - 10 am North American Pacific Daylight Time 
-    - 7 pm Central European Summer Time 
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210512T18&p1=133)*
-<br><br>
-
-* May 14, 2021 - 9 am North American Eastern Daylight Time: *Registration Closed* This event will run for 3 hours. 
-    - 6 am North American Pacific Daylight Time 
-    - 2 pm Western European Summer Time
-    - 3 pm Central European Summer Time 
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T09&p1=179)*
-<br><br>
-
-* June 4, 2021 - 9 am Central European Summer Time *Registration Closed* This event will run for 3 hours.
-    - 8 am Western European Summer Time
-    - 5 pm Australian Eastern Standard Time
-    - 7 pm New Zealand Standard Time
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210604T09&p1=215)*
-<br><br>
-
-* June 17, 2021 - 1 pm North American Eastern Daylight Time *Registration Closed*
-    - 10 am North American Pacific Time 
-    - 6 pm Western European Summer Time 
-    - 7 pm Central European Summer Time 
-    - *See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210617T13&p1=179)*
-<br><br>
-
-* June 22 - 9 am Australian Eastern Standard Time *Event Cancelled*
+* [July 20, 2021 - 9 am to 12:30 pm North American Pacific Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-july-20-north-american-pdt-tickets-160245754365) 
+    - 12 pm to 3:30 pm North American Eastern Daylight Time 
+    - 6 pm to 9:30 pm Central European Summer Time
+    - See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210720T09&p1=137&ah=3&am=30) 
 
 <br><br>
+
+* [September 15, 2021 - 9 am to 12:30 pm North American Central Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-sep-15-north-american-cdt-tickets-160246406315)
+    - 7 am to 10:30 am North American Pacific Daylight Time
+    - 4 pm to 7:30 pm Central European Summer Time  
+    - See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210915T09&p1=64&ah=3&am=30) 
+
