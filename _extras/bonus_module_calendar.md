@@ -25,10 +25,7 @@ This workshop will be hands-on and interactive.
 
 ## Events - More July - September 2021 Dates To Be Announced Soon! 
 
-* [July 20, 2021 - 9 am to 12:30 pm North American Pacific Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-july-20-north-american-pdt-tickets-160245754365) 
-    - 12 pm to 3:30 pm North American Eastern Daylight Time 
-    - 6 pm to 9:30 pm Central European Summer Time
-    - See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210720T09&p1=137&ah=3&am=30) 
+* July 20, 2021 - 9 am to 12:30 pm North American Pacific Daylight Time *Registration Closed*
 
 <br><br>
 
