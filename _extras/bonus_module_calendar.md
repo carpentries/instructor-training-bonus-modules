@@ -27,10 +27,5 @@ This workshop will be hands-on and interactive.
 
 * July 20, 2021 - 9 am to 12:30 pm North American Pacific Daylight Time *Registration Closed*
 
-<br><br>
-
-* [September 15, 2021 - 9 am to 12:30 pm North American Central Daylight Time](https://www.eventbrite.com/e/bonus-module-teaching-online-sep-15-north-american-cdt-tickets-160246406315)
-    - 7 am to 10:30 am North American Pacific Daylight Time
-    - 4 pm to 7:30 pm Central European Summer Time  
-    - See the start time in [your local time zone](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210915T09&p1=64&ah=3&am=30) 
+* September 15, 2021 - 9 am to 12:30 pm North American Central Daylight Time *Registration Closed*
 
