@@ -23,9 +23,10 @@ Certified Carpentries Instructors can register for events listed below by clicki
 
 This workshop will be hands-on and interactive.
 
-## Events - More July - September 2021 Dates To Be Announced Soon! 
+## Events
 
-* July 20, 2021 - 9 am to 12:30 pm North American Pacific Daylight Time *Registration Closed*
-
-* September 15, 2021 - 9 am to 12:30 pm North American Central Daylight Time *Registration Closed*
+* November 4, 2021 - 9 am to 12:30 pm Australian Eastern Standard Time
+  * Other Timezones 
+    * 12 pm to 3:30 pm New Zealand Time 
+    * **November 3, 2021** - 4 pm to 7:30 pm North American Pacific Time
 
