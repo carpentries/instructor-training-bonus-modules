@@ -25,7 +25,7 @@ This workshop will be hands-on and interactive.
 
 ## Events
 
-* November 4, 2021 - 9 am to 12:30 pm Australian Eastern Standard Time
+* [November 4, 2021](https://www.eventbrite.com/e/bonus-module-teaching-online-nov-4-australian-eastern-standard-time-tickets-178922741737) - 9 am to 12:30 pm Australian Eastern Standard Time - [See the start time in your own timezone.](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211104T09&p1=47&ah=3&am=30)
   * Other Timezones 
     * 12 pm to 3:30 pm New Zealand Time 
     * **November 3, 2021** - 4 pm to 7:30 pm North American Pacific Time
