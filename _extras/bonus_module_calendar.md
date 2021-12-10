@@ -27,8 +27,6 @@ This workshop will be hands-on and interactive.
 
 * November 18, 2021 - *Registration Closed*
 
-* [December 17, 2021](https://www.eventbrite.com/e/bonus-module-teaching-online-dec-17-n-american-estcet-tickets-196423858047) - 9 am to 12:30 pm North American Eastern Standard Time - [See the start time in your own timezone.](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20211217T15&p1=259&ah=3&am=30)
-  * Other Timezones 
-    * 3 pm to 6:30 pm Central European Time 
+* December 17, 2021 - *Registration Closed* 
 
 
