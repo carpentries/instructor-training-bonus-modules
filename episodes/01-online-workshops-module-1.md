@@ -8,7 +8,6 @@ questions:
 objectives:
 - "Use Zoom host and co-host features to create breakouts, screen share, manage muting and more."
 - "Create a plan to communicate with learners during a workshop."
-keypoints:
 - "Hosting features in Zoom are most useful when operated by someone who is not also trying to teach."
 - "Communications avenues should be planned and taught for an online workshop to function smoothly."
 ---
@@ -103,7 +102,7 @@ your email address if you would like us to follow up!
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your
 introductory email to "Claim Host". The button looks like this:
 
-![Claim Host]({{ page.root }}/fig/claim_host.png)
+![Screenshot of zoom, with claim host circled in red, indicating how to claim host.]({{ page.root }}/fig/claim_host.png)
 
 Once host has been claimed, you can only become the host when a current host passes that status to you.
 
