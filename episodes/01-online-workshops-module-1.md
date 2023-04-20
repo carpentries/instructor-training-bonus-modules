@@ -103,7 +103,7 @@ your email address if you would like us to follow up!
 When you enter a Carpentries Zoom room, you will not have host controls. One person on your instructional team will use a "host key" provided in your
 introductory email to "Claim Host". The button looks like this:
 
-![Claim Host]({{ page.root }}/fig/claim_host.png)
+![Screenshot of zoom, with claim host circled in red, indicating how to claim host.]({{ page.root }}/fig/claim_host.png)
 
 Once host has been claimed, you can only become the host when a current host passes that status to you.
 
