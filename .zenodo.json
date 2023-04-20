@@ -1,0 +1,73 @@
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "Sarah M Brown",
+      "orcid": "0000-0001-5728-0822"
+    },
+    {
+      "type": "Editor",
+      "name": "Tim Dennis",
+      "orcid": "0000-0001-6632-3812"
+    },
+    {
+      "type": "Editor",
+      "name": "David Perez-Suarez",
+      "orcid": "0000-0003-0784-6909"
+    },
+    {
+      "type": "Editor",
+      "name": "Nathaniel Porter",
+      "orcid": "0000-0002-0479-6777"
+    },
+    {
+      "type": "Editor",
+      "name": "Jon Wheeler",
+      "orcid": "0000-0002-7166-3587"
+    },
+    {
+      "type": "Editor",
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
+    },
+    {
+      "name": "Kelly Barnes"
+    },
+    {
+      "name": "Sarah Stevens",
+      "orcid": "0000-0002-7040-548X"
+    },
+    {
+      "name": "Alexander James Ball"
+    },
+    {
+      "name": "Angelique Trusler",
+      "orcid": "0000-0003-2340-8538"
+    },
+    {
+      "name": "Serah Njambi",
+      "orcid": "0000-0002-7834-1038"
+    },
+    {
+      "name": "Darya Vanichkina",
+      "orcid": "0000-0002-0406-164X"
+    },
+    {
+      "name": "Mike Henry",
+      "orcid": "0000-0002-3870-9993"
+    },
+    {
+      "name": "Mike Trizna",
+      "orcid": "0000-0002-0537-8382"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
