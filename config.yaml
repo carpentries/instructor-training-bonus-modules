@@ -14,7 +14,7 @@ carpentry: 'cp'
 title: 'Bonus Modules for Carpentries Instructors'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: '2020-04-29'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -27,7 +27,7 @@ life_cycle: 'beta'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/instructor-training-bonus-modules/'
+source: 'https://github.com/carpentries/instructor-training-bonus-modules'
 
 # Default branch of your lesson
 branch: 'main'
@@ -77,7 +77,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: https://preview.carpentries.org/instructor-training-bonus-modules
+url: 'https://carpentries.github.io/instructor-training-bonus-modules'
 analytics: carpentries
 lang: en
-workbench-beta: 'true'
