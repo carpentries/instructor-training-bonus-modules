@@ -16,10 +16,16 @@
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/bonus_module_calendar.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/index.html</loc>
@@ -40,13 +46,25 @@
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/bonus_module_calendar.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/online-workshop-guidelines.html</loc>
@@ -56,6 +74,12 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/instructor-training-bonus-modules/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/instructor-training-bonus-modules/online-workshop-guidelines.html</loc>
